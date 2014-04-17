@@ -7,7 +7,7 @@
 #| msgid "Name"
 msgctxt "~/Modules/Bing.Maps/Module.txt"
 msgid "Bing.Maps"
-msgstr ""
+msgstr "Bing地圖"
 
 #: ~/Modules/Bing.Maps/Module.txt
 #| msgid "Author"
@@ -19,23 +19,23 @@ msgstr ""
 #| msgid "Website"
 msgctxt "~/Modules/Bing.Maps/Module.txt"
 msgid "http://weblogs.asp.net/bleroy"
-msgstr ""
+msgstr "http://weblogs.asp.net/bleroy"
 
 #: ~/Modules/Bing.Maps/Module.txt
 #| msgid "Description"
 msgctxt "~/Modules/Bing.Maps/Module.txt"
 msgid "Bing Maps part and widget"
-msgstr ""
+msgstr "Bing 地圖部分及小工具"
 
 #: ~/Modules/Bing.Maps/Module.txt
 #| msgid "Bing.Maps.Description"
 msgctxt "~/Modules/Bing.Maps/Module.txt"
 msgid "Bing Maps part and widget"
-msgstr ""
+msgstr "Bing 地圖部分及小工具"
 
 #: ~/Modules/Bing.Maps/Module.txt
 #| msgid "Bing.Maps.Category"
 msgctxt "~/Modules/Bing.Maps/Module.txt"
 msgid "GeoLocation"
-msgstr ""
+msgstr "地理資訊"
 

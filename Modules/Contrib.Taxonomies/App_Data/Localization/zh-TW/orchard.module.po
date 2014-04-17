@@ -7,19 +7,19 @@
 #| msgid "TaxonomyMenuItem.Name"
 msgctxt "~/Modules/Contrib.Taxonomies/Module.txt"
 msgid "Taxonomy Main Menu"
-msgstr ""
+msgstr "分類主選單"
 
 #: ~/Modules/Contrib.Taxonomies/Module.txt
 #| msgid "TaxonomyMenuItem.Description"
 msgctxt "~/Modules/Contrib.Taxonomies/Module.txt"
 msgid "Displays Taxonomies on main menu."
-msgstr ""
+msgstr "顯示分類於主選單。"
 
 #: ~/Modules/Contrib.Taxonomies/Module.txt
 #| msgid "TaxonomyMenuItem.Category"
 msgctxt "~/Modules/Contrib.Taxonomies/Module.txt"
 msgid "Navigation"
-msgstr ""
+msgstr "導覽"
 
 #: Contrib.Taxonomies.Controllers.AdminController
 #| msgid "The term {0} already exists at this level"
@@ -31,55 +31,55 @@ msgstr ""
 #| msgid "Not allowed to manage terms"
 msgctxt "Contrib.Taxonomies.Controllers.TermAdminController"
 msgid "Not allowed to manage terms"
-msgstr ""
+msgstr "不允許管理"
 
 #: Contrib.Taxonomies.Drivers.TaxonomyMenuItemPartDriver
 #| msgid "Menu item name is required"
 msgctxt "Contrib.Taxonomies.Drivers.TaxonomyMenuItemPartDriver"
 msgid "Menu item name is required"
-msgstr ""
+msgstr "選單名稱為必填"
 
 #: Contrib.Taxonomies.Drivers.TaxonomyPartDriver
 #| msgid "A taxonomy with the same name already exists"
 msgctxt "Contrib.Taxonomies.Drivers.TaxonomyPartDriver"
 msgid "A taxonomy with the same name already exists"
-msgstr ""
+msgstr "已經存在相同名稱的分類"
 
 #: Contrib.Taxonomies.Drivers.TermPartDriver
 #| msgid "The term {0} already exists at this level"
 msgctxt "Contrib.Taxonomies.Drivers.TermPartDriver"
 msgid "The term {0} already exists at this level"
-msgstr ""
+msgstr "項目{0} 已經存在於這個階層"
 
 #: Contrib.Taxonomies.Drivers.TermPartDriver
 #| msgid "Unknown taxonomy: {0}"
 msgctxt "Contrib.Taxonomies.Drivers.TermPartDriver"
 msgid "Unknown taxonomy: {0}"
-msgstr ""
+msgstr "未知的分類：{0}"
 
 #: Contrib.Taxonomies.Drivers.TermWidgetPartDriver
 #| msgid "Unknown taxonomy: {0}"
 msgctxt "Contrib.Taxonomies.Drivers.TermWidgetPartDriver"
 msgid "Unknown taxonomy: {0}"
-msgstr ""
+msgstr "未知的分類：{0}"
 
 #: Contrib.Taxonomies.Drivers.TermWidgetPartDriver
 #| msgid "Unknown term: {0}"
 msgctxt "Contrib.Taxonomies.Drivers.TermWidgetPartDriver"
 msgid "Unknown term: {0}"
-msgstr ""
+msgstr "未知的項目：{0}"
 
 #: Contrib.Taxonomies.Projections.TermsFilter
 #| msgid "Taxonomy"
 msgctxt "Contrib.Taxonomies.Projections.TermsFilter"
 msgid "Taxonomy"
-msgstr ""
+msgstr "分類"
 
 #: Contrib.Taxonomies.Projections.TermsFilter
 #| msgid "Has Terms"
 msgctxt "Contrib.Taxonomies.Projections.TermsFilter"
 msgid "Has Terms"
-msgstr ""
+msgstr "已經分類"
 
 #: Contrib.Taxonomies.Projections.TermsFilter
 #| msgid "Categorized content items"
@@ -91,7 +91,7 @@ msgstr ""
 #| msgid "Any term"
 msgctxt "Contrib.Taxonomies.Projections.TermsFilter"
 msgid "Any term"
-msgstr ""
+msgstr "任何分類"
 
 #: Contrib.Taxonomies.Projections.TermsFilter
 #| msgid "Categorized with {0}"
@@ -103,13 +103,13 @@ msgstr ""
 #| msgid "Terms"
 msgctxt "Contrib.Taxonomies.Projections.TermsFilterForms"
 msgid "Terms"
-msgstr ""
+msgstr "項目"
 
 #: Contrib.Taxonomies.Projections.TermsFilterForms
 #| msgid "Select some terms."
 msgctxt "Contrib.Taxonomies.Projections.TermsFilterForms"
 msgid "Select some terms."
-msgstr ""
+msgstr "選擇某些項目。"
 
 #: ~/Modules/Contrib.Taxonomies/Views/Taxonomies.TermContentItems.List.cshtml
 #| msgid "There is no content associated to this term."
@@ -121,19 +121,19 @@ msgstr ""
 #| msgid "Edit"
 msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
 msgid "Edit"
-msgstr ""
+msgstr "編輯"
 
 #: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml
 #| msgid "Terms"
 msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
 msgid "Terms"
-msgstr ""
+msgstr "項目"
 
 #: ~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml
 #| msgid "Restrictions"
 msgctxt "~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml"
 msgid "Restrictions"
-msgstr ""
+msgstr "限制"
 
 #: ~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml
 #| msgid "Help text"
@@ -151,7 +151,7 @@ msgstr ""
 #| msgid "Taxonomy"
 msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
 msgid "Taxonomy"
-msgstr ""
+msgstr "分類"
 
 #: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
 #| msgid "Select the taxonomy whose terms will be rendered in the menu."
@@ -163,37 +163,37 @@ msgstr ""
 #| msgid "Root Term"
 msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
 msgid "Root Term"
-msgstr ""
+msgstr "頂層項目"
 
 #: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
 #| msgid "- Parent Taxonomy -"
 msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
 msgid "- Parent Taxonomy -"
-msgstr ""
+msgstr "- 子項目 -"
 
 #: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
 #| msgid "Select the root term to display"
 msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
 msgid "Select the root term to display"
-msgstr ""
+msgstr "選擇要顯示的頂層項目"
 
 #: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
 #| msgid "Number of levels to display"
 msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
 msgid "Number of levels to display"
-msgstr ""
+msgstr "要顯示的階層數"
 
 #: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
 #| msgid "Enter \"0\" to render all sub-levels."
 msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
 msgid "Enter \"0\" to render all sub-levels."
-msgstr ""
+msgstr "輸入0會顯示所有階層"
 
 #: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
 #| msgid "Display top level menu item"
 msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
 msgid "Display top level menu item"
-msgstr ""
+msgstr "顯示頂層項目"
 
 #: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
 #| msgid "When checked, the selected term to display will be rendered as a root element in the menu."
@@ -205,7 +205,7 @@ msgstr ""
 #| msgid "Hide empty entries"
 msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
 msgid "Hide empty entries"
-msgstr ""
+msgstr "隱藏空白內容"
 
 #: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
 #| msgid "When checked, any term which has no content item associated to it won't be rendered."
@@ -217,7 +217,7 @@ msgstr ""
 #| msgid "Display content count"
 msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
 msgid "Display content count"
-msgstr ""
+msgstr "顯示內容數量"
 
 #: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
 #| msgid "When checked, the number of content items is rendered following the term name."
@@ -229,25 +229,25 @@ msgstr ""
 #| msgid "Taxonomy"
 msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
 msgid "Taxonomy"
-msgstr ""
+msgstr "分類"
 
 #: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
 #| msgid "Select a taxonomy."
 msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
 msgid "Select a taxonomy."
-msgstr ""
+msgstr "選擇一個分類"
 
 #: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
 #| msgid "Term"
 msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
 msgid "Term"
-msgstr ""
+msgstr "分類"
 
 #: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
 #| msgid "- None -"
 msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
 msgid "- None -"
-msgstr ""
+msgstr "- 無 -"
 
 #: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
 #| msgid "Select the term whose content items will be displayed."
@@ -259,7 +259,7 @@ msgstr ""
 #| msgid "Field"
 msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
 msgid "Field"
-msgstr ""
+msgstr "欄位"
 
 #: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
 #| msgid "Optional. You can specify which field name to use if several terms references are defined on the same content type."

@@ -31,7 +31,7 @@ msgstr "某些項目尚未儲存。"
 #| msgid "This is the place where you can manage your web site, its appearance and its contents. Please take a moment to explore the different menu items on the left of the screen to familiarize yourself with the features of the application. For example, try to change the theme through the âManage Themesâ menu entry. You can also create new pages and manage existing ones through the âManage Pagesâ menu entry or create blogs through âManage Blogsâ."
 msgctxt "~/Core/Dashboard/Views/Admin/Index.cshtml"
 msgid "This is the place where you can manage your web site, its appearance and its contents. Please take a moment to explore the different menu items on the left of the screen to familiarize yourself with the features of the application. For example, try to change the theme through the âManage Themesâ menu entry. You can also create new pages and manage existing ones through the âManage Pagesâ menu entry or create blogs through âManage Blogsâ."
-msgstr ""
+msgstr "在這裡您可以管理你的網站、外觀、內容，請花點時間探索。"
 
 #: ~/Core/Navigation/Views/Admin/Index.cshtml
 #| msgid "Default Position"
@@ -115,7 +115,7 @@ msgstr "建立新選單項目"
 #| msgid "You need to hit \"Save All\" in order to save your changes."
 msgctxt "~/Core/Navigation/Views/Admin/Index.cshtml"
 msgid "You need to hit \"Save All\" in order to save your changes."
-msgstr ""
+msgstr "您需要點擊\"儲存全部\"來儲存您所有的變更"
 
 #: ~/Core/Navigation/Views/Admin/Index.cshtml
 #| msgid "Current Menu:"
@@ -157,7 +157,7 @@ msgstr "全部儲存"
 #| msgid " | "
 msgctxt "~/Core/Navigation/Views/Admin/Index.cshtml"
 msgid " | "
-msgstr ""
+msgstr " | "
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.ContentMenuItem.Edit.cshtml
 #| msgid "Empty"
@@ -181,7 +181,7 @@ msgstr "瀏覽"
 #| msgid "Select the Content Item to display in the menu."
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.ContentMenuItem.Edit.cshtml"
 msgid "Select the Content Item to display in the menu."
-msgstr ""
+msgstr "選擇要顯示在選單的項目"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.MenuItem.Edit.cshtml
 #| msgid "Url"
@@ -193,73 +193,73 @@ msgstr "網址"
 #| msgid "A valid url, i.e. ~/my-page, http://orchardproject.net, /content/file.pdf, ..."
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuItem.Edit.cshtml"
 msgid "A valid url, i.e. ~/my-page, http://orchardproject.net, /content/file.pdf, ..."
-msgstr ""
+msgstr "有效的網址，例如  ~/my-page, http://orchardproject.net, /content/file.pdf, ..."
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml
 #| msgid "For Menu"
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
 msgid "For Menu"
-msgstr ""
+msgstr "選單使用"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml
 #| msgid "Select which menu you want to display"
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
 msgid "Select which menu you want to display"
-msgstr ""
+msgstr "選擇您要顯示那個選單"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml
 #| msgid "Start Level"
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
 msgid "Start Level"
-msgstr ""
+msgstr "啟始階層"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml
 #| msgid "The level the menu should start at."
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
 msgid "The level the menu should start at."
-msgstr ""
+msgstr "選單階層啟始位置"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml
 #| msgid "Levels to display"
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
 msgid "Levels to display"
-msgstr ""
+msgstr "欲顯示的階層"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml
 #| msgid "The number of levels to display, \"0\" meaning all levels."
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
 msgid "The number of levels to display, \"0\" meaning all levels."
-msgstr ""
+msgstr "要從那個階層開始顯示，\"0\"表示顯示所有階層 "
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml
 #| msgid "Display as Breadcrumb"
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
 msgid "Display as Breadcrumb"
-msgstr ""
+msgstr "顯示為麵包屑(Breadcrumb)"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml
 #| msgid "Check to render the path to the current content item."
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
 msgid "Check to render the path to the current content item."
-msgstr ""
+msgstr "檢查編譯後的路徑是否為目前的項目"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml
 #| msgid "Add the home page as the first element"
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
 msgid "Add the home page as the first element"
-msgstr ""
+msgstr "添加首頁為第一個項目"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml
 #| msgid "Check to render the home page as the first element of the breadcrumb."
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
 msgid "Check to render the home page as the first element of the breadcrumb."
-msgstr ""
+msgstr "檢查麵包屑中編譯後的路徑內首頁是否為第一個元素。"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml
 #| msgid "Add the current content item as the last element"
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
 msgid "Add the current content item as the last element"
-msgstr ""
+msgstr "加入目前內容為最後一個元素。"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml
 #| msgid "Check to render the current content item as the last element."
@@ -271,55 +271,55 @@ msgstr ""
 #| msgid "Menu Items"
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
 msgid "Menu Items"
-msgstr ""
+msgstr "選單項目"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Edit.cshtml
 #| msgid "The menu items linking to this content item."
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
 msgid "The menu items linking to this content item."
-msgstr ""
+msgstr "選單項目連結到現在的項目"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Edit.cshtml
 #| msgid "on"
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
 msgid "on"
-msgstr ""
+msgstr "開啟"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Edit.cshtml
 #| msgid "Not displayed in any menu."
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
 msgid "Not displayed in any menu."
-msgstr ""
+msgstr "不顯示在任何選單"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Edit.cshtml
 #| msgid "Add on a menu"
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
 msgid "Add on a menu"
-msgstr ""
+msgstr "加入到選單"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Edit.cshtml
 #| msgid "Select which menu you want the content item to be added on."
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
 msgid "Select which menu you want the content item to be added on."
-msgstr ""
+msgstr "選擇您的內容要顯示在那個選擔當中。"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Edit.cshtml
 #| msgid "Menu text"
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
 msgid "Menu text"
-msgstr ""
+msgstr "選單文字"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Edit.cshtml
 #| msgid "The text that should appear in the menu."
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
 msgid "The text that should appear in the menu."
-msgstr ""
+msgstr "文字會顯示在選單上"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Menu.Edit.cshtml
 #| msgid "Show on a menu"
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Menu.Edit.cshtml"
 msgid "Show on a menu"
-msgstr ""
+msgstr "顯示選單"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Menu.Edit.cshtml
 #| msgid "Select which menu you want the content item to be displayed on."
@@ -331,193 +331,193 @@ msgstr ""
 #| msgid "The text that should appear in the menu."
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Menu.Edit.cshtml"
 msgid "The text that should appear in the menu."
-msgstr ""
+msgstr "文字會顯示在選單上"
 
 #: Orchard.Core.Settings.Tokens.SettingsTokens
 #| msgid "Site Settings"
 msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
 msgid "Site Settings"
-msgstr ""
+msgstr "網站設定"
 
 #: Orchard.Core.Settings.Tokens.SettingsTokens
 #| msgid "Tokens for Site Settings"
 msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
 msgid "Tokens for Site Settings"
-msgstr ""
+msgstr "網站設定的Tokens"
 
 #: Orchard.Core.Settings.Tokens.SettingsTokens
 #| msgid "Site Name"
 msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
 msgid "Site Name"
-msgstr ""
+msgstr "網站名稱"
 
 #: Orchard.Core.Settings.Tokens.SettingsTokens
 #| msgid "The name of the site."
 msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
 msgid "The name of the site."
-msgstr ""
+msgstr "網站名稱"
 
 #: Orchard.Core.Settings.Tokens.SettingsTokens
 #| msgid "Super User"
 msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
 msgid "Super User"
-msgstr ""
+msgstr "最高權限管理者"
 
 #: Orchard.Core.Settings.Tokens.SettingsTokens
 #| msgid "The name of the super user."
 msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
 msgid "The name of the super user."
-msgstr ""
+msgstr "最高權限管理者的名字"
 
 #: Orchard.Core.Settings.Tokens.SettingsTokens
 #| msgid "Site Culture"
 msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
 msgid "Site Culture"
-msgstr ""
+msgstr "網站文化"
 
 #: Orchard.Core.Settings.Tokens.SettingsTokens
 #| msgid "The current culture of the site."
 msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
 msgid "The current culture of the site."
-msgstr ""
+msgstr "目前網站文化設定。"
 
 #: Orchard.Core.Settings.Tokens.SettingsTokens
 #| msgid "Base Url"
 msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
 msgid "Base Url"
-msgstr ""
+msgstr "基礎Url"
 
 #: Orchard.Core.Settings.Tokens.SettingsTokens
 #| msgid "The base url the site."
 msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
 msgid "The base url the site."
-msgstr ""
+msgstr "網站的基礎網址"
 
 #: Orchard.Core.Settings.Tokens.SettingsTokens
 #| msgid "Time Zone"
 msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
 msgid "Time Zone"
-msgstr ""
+msgstr "時區"
 
 #: Orchard.Core.Settings.Tokens.SettingsTokens
 #| msgid "The current time zone of the site."
 msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
 msgid "The current time zone of the site."
-msgstr ""
+msgstr "目前網站時區"
 
 #: Orchard.Core.Settings.Tokens.SettingsTokens
 #| msgid "{0}"
 msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: Orchard.Core.Settings.Tokens.SettingsTokens
 #| msgid "The setting named {0}."
 msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
 msgid "The setting named {0}."
-msgstr ""
+msgstr "設定命名為 {0}。"
 
 #: Orchard.Core.Shapes.DateTimeShapes
 #| msgid "in a moment"
 msgctxt "Orchard.Core.Shapes.DateTimeShapes"
 msgid "in a moment"
-msgstr ""
+msgstr "一下子"
 
 #: Orchard.Core.Shapes.DateTimeShapes
 #| msgid "in 1 day"
 msgctxt "Orchard.Core.Shapes.DateTimeShapes"
 msgid "in 1 day"
-msgstr ""
+msgstr "一天內"
 
 #: Orchard.Core.Shapes.DateTimeShapes
 #| msgid "in {0} days"
 msgctxt "Orchard.Core.Shapes.DateTimeShapes"
 msgid "in {0} days"
-msgstr ""
+msgstr " {0} 天內"
 
 #: Orchard.Core.Shapes.DateTimeShapes
 #| msgid "in 1 hour"
 msgctxt "Orchard.Core.Shapes.DateTimeShapes"
 msgid "in 1 hour"
-msgstr ""
+msgstr "1小時內"
 
 #: Orchard.Core.Shapes.DateTimeShapes
 #| msgid "in {0} hours"
 msgctxt "Orchard.Core.Shapes.DateTimeShapes"
 msgid "in {0} hours"
-msgstr ""
+msgstr "{0} 小時之前"
 
 #: Orchard.Core.Shapes.DateTimeShapes
 #| msgid "in 1 minute"
 msgctxt "Orchard.Core.Shapes.DateTimeShapes"
 msgid "in 1 minute"
-msgstr ""
+msgstr "1分鐘之前"
 
 #: Orchard.Core.Shapes.DateTimeShapes
 #| msgid "in {0} minutes"
 msgctxt "Orchard.Core.Shapes.DateTimeShapes"
 msgid "in {0} minutes"
-msgstr ""
+msgstr "{0} 之前"
 
 #: Orchard.Core.Shapes.DateTimeShapes
 #| msgid "in 1 second"
 msgctxt "Orchard.Core.Shapes.DateTimeShapes"
 msgid "in 1 second"
-msgstr ""
+msgstr "1秒鐘之前"
 
 #: Orchard.Core.Shapes.DateTimeShapes
 #| msgid "in {0} seconds"
 msgctxt "Orchard.Core.Shapes.DateTimeShapes"
 msgid "in {0} seconds"
-msgstr ""
+msgstr "{0} 秒鐘之前"
 
 #: Orchard.Core.Common.Drivers.TextFieldDriver
 #| msgid "The field {0} is mandatory"
 msgctxt "Orchard.Core.Common.Drivers.TextFieldDriver"
 msgid "The field {0} is mandatory"
-msgstr ""
+msgstr "欄位 {0} 為必填"
 
 #: Orchard.Core.Containers.Controllers.ItemController
 #| msgid "Cannot view content"
 msgctxt "Orchard.Core.Containers.Controllers.ItemController"
 msgid "Cannot view content"
-msgstr ""
+msgstr "無法檢視內容"
 
 #: Orchard.Core.Contents.Controllers.AdminController
 #| msgid "Couldn't clone content"
 msgctxt "Orchard.Core.Contents.Controllers.AdminController"
 msgid "Couldn't clone content"
-msgstr ""
+msgstr "無法複製內容"
 
 #: Orchard.Core.Contents.Controllers.AdminController
 #| msgid "Could not clone the content item."
 msgctxt "Orchard.Core.Contents.Controllers.AdminController"
 msgid "Could not clone the content item."
-msgstr ""
+msgstr "無法複製內容項目。"
 
 #: Orchard.Core.Contents.Controllers.AdminController
 #| msgid "Successfully cloned. The clone was saved as a draft."
 msgctxt "Orchard.Core.Contents.Controllers.AdminController"
 msgid "Successfully cloned. The clone was saved as a draft."
-msgstr ""
+msgstr "複製成功，複製之後的內容存為草稿。"
 
 #: ~/Core/Contents/Views/Content.SaveButton.cshtml
 #| msgid "Cancel"
 msgctxt "~/Core/Contents/Views/Content.SaveButton.cshtml"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: ~/Core/Contents/Views/Parts.Contents.Clone.SummaryAdmin.cshtml
 #| msgid "Clone"
 msgctxt "~/Core/Contents/Views/Parts.Contents.Clone.SummaryAdmin.cshtml"
 msgid "Clone"
-msgstr ""
+msgstr "複製"
 
 #: ~/Core/Contents/Views/Parts.Contents.Clone.SummaryAdmin.cshtml
 #| msgid " | "
 msgctxt "~/Core/Contents/Views/Parts.Contents.Clone.SummaryAdmin.cshtml"
 msgid " | "
-msgstr ""
+msgstr " | "
 
 #: ~/Core/Dashboard/Views/Admin/Index.cshtml
 #| msgid "Start by exploring the menu on the left and familiarize yourself with Orchard. As for the basics, we suggest <a href=\"{0}\">changing the theme</a>, <a href=\"{1}\">adding some pages</a>, <a href=\"{2}\">setup up a blog</a>, and <a href=\"{3}\">configuring basic settings</a>."
@@ -565,7 +565,7 @@ msgstr ""
 #| msgid "Use web.config setting"
 msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
 msgid "Use web.config setting"
-msgstr ""
+msgstr "使用web.config的設定"
 
 #: ~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml
 #| msgid "Enabled"
@@ -583,7 +583,7 @@ msgstr "已停用"
 #| msgid "You must provide a title for this content item"
 msgctxt "~/Core/Title/Views/EditorTemplates/Parts.Title.TitlePart.cshtml"
 msgid "You must provide a title for this content item"
-msgstr ""
+msgstr "您必須提供一個標題給這個內容項目"
 
 #: Orchard.Core.Routable.Drivers.RoutePartDriver
 #| msgid "Please do not use any of the following characters in your permalink: \":\", \"?\", \"#\", \"[\", \"]\", \"@\", \"!\", \"$\", \"&\", \"'\", \"(\", \")\", \"*\", \"+\", \",\", \";\", \"=\", \", \"<\", \">\", \"\\". No spaces are allowed (please use dashes or underscores instead)."
@@ -727,7 +727,7 @@ msgstr ""
 #| msgid ".Name"
 msgctxt "~/Core/Contents/Module.txt"
 msgid "Contents"
-msgstr ""
+msgstr "內容"
 
 #: ~/Core/Contents/Module.txt
 #| msgid ".Description"
@@ -739,55 +739,55 @@ msgstr ""
 #| msgid ".Category"
 msgctxt "~/Core/Contents/Module.txt"
 msgid "Core"
-msgstr ""
+msgstr "核心"
 
 #: ~/Core/Contents/Module.txt
 #| msgid "Contents.Rules.Name"
 msgctxt "~/Core/Contents/Module.txt"
 msgid "Contents Rules"
-msgstr ""
+msgstr "內容規則"
 
 #: ~/Core/Contents/Module.txt
 #| msgid "Contents.Rules.Description"
 msgctxt "~/Core/Contents/Module.txt"
 msgid "Rules for the Contents modules"
-msgstr ""
+msgstr "內容模組的規則"
 
 #: ~/Core/Contents/Module.txt
 #| msgid "Contents.Rules.Category"
 msgctxt "~/Core/Contents/Module.txt"
 msgid "Rules"
-msgstr ""
+msgstr "規則"
 
 #: ~/Core/Title/Module.txt
 #| msgid "Name"
 msgctxt "~/Core/Title/Module.txt"
 msgid "Title"
-msgstr ""
+msgstr "標題"
 
 #: ~/Core/Title/Module.txt
 #| msgid "Author"
 msgctxt "~/Core/Title/Module.txt"
 msgid "The Orchard Team"
-msgstr ""
+msgstr "Orchard團隊"
 
 #: ~/Core/Title/Module.txt
 #| msgid "Website"
 msgctxt "~/Core/Title/Module.txt"
 msgid "http://orchardproject.net"
-msgstr ""
+msgstr "http://orchardproject.net"
 
 #: ~/Core/Title/Module.txt
 #| msgid "Description"
 msgctxt "~/Core/Title/Module.txt"
 msgid "The title module enables content items to have titles."
-msgstr ""
+msgstr "標題模組使項目內容可以建立標題"
 
 #: ~/Core/Common/Views/CommonMetadataOwner.cshtml
 #| msgid "By {0}"
 msgctxt "~/Core/Common/Views/CommonMetadataOwner.cshtml"
 msgid "By {0}"
-msgstr ""
+msgstr "By {0}"
 
 #: ~/Core/Containers/Views/EditorTemplates/Container.cshtml
 #| msgid "Routable Title"
@@ -805,25 +805,25 @@ msgstr ""
 #| msgid "Cannot preview content"
 msgctxt "Orchard.Core.Contents.Controllers.ItemController"
 msgid "Cannot preview content"
-msgstr ""
+msgstr "無法預覽內容"
 
 #: Orchard.Core.Contents.Rules.ContentEvents
 #| msgid "Content Items"
 msgctxt "Orchard.Core.Contents.Rules.ContentEvents"
 msgid "Content Items"
-msgstr ""
+msgstr "內容項目"
 
 #: Orchard.Core.Contents.Rules.ContentEvents
 #| msgid "Content Created"
 msgctxt "Orchard.Core.Contents.Rules.ContentEvents"
 msgid "Content Created"
-msgstr ""
+msgstr "建立內容。"
 
 #: Orchard.Core.Contents.Rules.ContentEvents
 #| msgid "Content is actually created."
 msgctxt "Orchard.Core.Contents.Rules.ContentEvents"
 msgid "Content is actually created."
-msgstr ""
+msgstr "已經確實建立內容。"
 
 #: Orchard.Core.Contents.Rules.ContentEvents
 #| msgid "When content with types ({0}) is created."
@@ -835,13 +835,13 @@ msgstr ""
 #| msgid "Content Versioned"
 msgctxt "Orchard.Core.Contents.Rules.ContentEvents"
 msgid "Content Versioned"
-msgstr ""
+msgstr "內容版本控制"
 
 #: Orchard.Core.Contents.Rules.ContentEvents
 #| msgid "Content is actually versioned."
 msgctxt "Orchard.Core.Contents.Rules.ContentEvents"
 msgid "Content is actually versioned."
-msgstr ""
+msgstr "內容已經建立版本控制"
 
 #: Orchard.Core.Contents.Rules.ContentEvents
 #| msgid "When content with types ({0}) is versioned."
@@ -871,13 +871,13 @@ msgstr ""
 #| msgid "Content Removed"
 msgctxt "Orchard.Core.Contents.Rules.ContentEvents"
 msgid "Content Removed"
-msgstr ""
+msgstr "移除內容"
 
 #: Orchard.Core.Contents.Rules.ContentEvents
 #| msgid "Content is actually removed."
 msgctxt "Orchard.Core.Contents.Rules.ContentEvents"
 msgid "Content is actually removed."
-msgstr ""
+msgstr "內容已經移除。"
 
 #: Orchard.Core.Contents.Rules.ContentEvents
 #| msgid "When content with types ({0}) is removed."
@@ -889,31 +889,31 @@ msgstr ""
 #| msgid "Any"
 msgctxt "Orchard.Core.Contents.Rules.ContentEvents"
 msgid "Any"
-msgstr ""
+msgstr "任何"
 
 #: Orchard.Core.Contents.Rules.ContentForms
 #| msgid "Content types"
 msgctxt "Orchard.Core.Contents.Rules.ContentForms"
 msgid "Content types"
-msgstr ""
+msgstr "內容類型"
 
 #: Orchard.Core.Contents.Rules.ContentForms
 #| msgid "Select some content types."
 msgctxt "Orchard.Core.Contents.Rules.ContentForms"
 msgid "Select some content types."
-msgstr ""
+msgstr "選擇某些內容類型。"
 
 #: Orchard.Core.Contents.Rules.ContentForms
 #| msgid "Any"
 msgctxt "Orchard.Core.Contents.Rules.ContentForms"
 msgid "Any"
-msgstr ""
+msgstr "任何"
 
 #: ~/Core/Contents/Views/Parts.Contents.Publish.SummaryAdmin.cshtml
 #| msgid "Preview"
 msgctxt "~/Core/Contents/Views/Parts.Contents.Publish.SummaryAdmin.cshtml"
 msgid "Preview"
-msgstr ""
+msgstr "預覽"
 
 #: ~/Core/Dashboard/Views/Admin/Index.cshtml
 #| msgid "Start by exploring the menu on the left and familiarize yourself with Orchard. As for the basics, we suggest <a href=""{0}"">changing the theme</a>, <a href=""{1}"">adding some pages</a>, <a href=""{2}"">setup up a blog</a>, and <a href=""{3}"">configuring basic settings</a>."
@@ -955,13 +955,13 @@ msgstr ""
 #| msgid "Dashboard"
 msgctxt "~/Core/Shapes/Views/User.cshtml"
 msgid "Dashboard"
-msgstr ""
+msgstr "儀表版"
 
 #: ~/Core/Title/Views/EditorTemplates/Parts.Title.TitlePart.cshtml
 #| msgid "Title"
 msgctxt "~/Core/Title/Views/EditorTemplates/Parts.Title.TitlePart.cshtml"
 msgid "Title"
-msgstr ""
+msgstr "標題"
 
 #: 
 #| msgid "Name"
@@ -973,13 +973,13 @@ msgstr ""
 #| msgid "Common Description"
 msgctxt "~/Core/Common/Module.txt"
 msgid "Core content parts."
-msgstr ""
+msgstr "核心內容部分。"
 
 #: ~/Core/Common/Module.txt
 #| msgid "Common Category"
 msgctxt "~/Core/Common/Module.txt"
 msgid "Core"
-msgstr ""
+msgstr "核心"
 
 #: ~/Core/Contents/Module.txt
 #| msgid "Contents Description"
@@ -991,19 +991,19 @@ msgstr ""
 #| msgid "Contents Category"
 msgctxt "~/Core/Contents/Module.txt"
 msgid "Core"
-msgstr ""
+msgstr "核心"
 
 #: ~/Core/Dashboard/Module.txt
 #| msgid "Dashboard Description"
 msgctxt "~/Core/Dashboard/Module.txt"
 msgid "Standard admin dashboard."
-msgstr ""
+msgstr "標準管理者儀表版"
 
 #: ~/Core/Dashboard/Module.txt
 #| msgid "Dashboard Category"
 msgctxt "~/Core/Dashboard/Module.txt"
 msgid "Core"
-msgstr ""
+msgstr "核心"
 
 #: ~/Core/Feeds/Module.txt
 #| msgid "Feeds Description"
@@ -1027,31 +1027,31 @@ msgstr ""
 #| msgid "HomePage Category"
 msgctxt "~/Core/HomePage/Module.txt"
 msgid "Core"
-msgstr ""
+msgstr "核心"
 
 #: ~/Core/Navigation/Module.txt
 #| msgid "Navigation Description"
 msgctxt "~/Core/Navigation/Module.txt"
 msgid "Menu management."
-msgstr ""
+msgstr "選單管理"
 
 #: ~/Core/Navigation/Module.txt
 #| msgid "Navigation Category"
 msgctxt "~/Core/Navigation/Module.txt"
 msgid "Core"
-msgstr ""
+msgstr "核心"
 
 #: ~/Core/Reports/Module.txt
 #| msgid "Reports Description"
 msgctxt "~/Core/Reports/Module.txt"
 msgid "Reports management."
-msgstr ""
+msgstr "報告管理"
 
 #: ~/Core/Reports/Module.txt
 #| msgid "Reports Category"
 msgctxt "~/Core/Reports/Module.txt"
 msgid "Core"
-msgstr ""
+msgstr "核心"
 
 #: ~/Core/Routable/Module.txt
 #| msgid "Routable Description"
@@ -1063,31 +1063,31 @@ msgstr ""
 #| msgid "Routable Category"
 msgctxt "~/Core/Routable/Module.txt"
 msgid "Core"
-msgstr ""
+msgstr "核心"
 
 #: ~/Core/Scheduling/Module.txt
 #| msgid "Scheduling Description"
 msgctxt "~/Core/Scheduling/Module.txt"
 msgid "Scheduled background tasks."
-msgstr ""
+msgstr "排程背景工作。"
 
 #: ~/Core/Scheduling/Module.txt
 #| msgid "Scheduling Category"
 msgctxt "~/Core/Scheduling/Module.txt"
 msgid "Core"
-msgstr ""
+msgstr "核心"
 
 #: ~/Core/Settings/Module.txt
 #| msgid "Settings Description"
 msgctxt "~/Core/Settings/Module.txt"
 msgid "Site settings."
-msgstr ""
+msgstr "網站設定"
 
 #: ~/Core/Settings/Module.txt
 #| msgid "Settings Category"
 msgctxt "~/Core/Settings/Module.txt"
 msgid "Core"
-msgstr ""
+msgstr "核心"
 
 #: ~/Core/Shapes/Module.txt
 #| msgid "Shapes Description"
@@ -1099,7 +1099,7 @@ msgstr ""
 #| msgid "Shapes Category"
 msgctxt "~/Core/Shapes/Module.txt"
 msgid "Core"
-msgstr ""
+msgstr "核心"
 
 #: ~/Core/XmlRpc/Module.txt
 #| msgid "XmlRpc Description"
@@ -1111,13 +1111,13 @@ msgstr ""
 #| msgid "XmlRpc Category"
 msgctxt "~/Core/XmlRpc/Module.txt"
 msgid "Content Publishing"
-msgstr ""
+msgstr "發佈內容"
 
 #: ~/Core/Common/Views/EditorTemplates/Parts/Common.Body.cshtml
 #| msgid "Body"
 msgctxt "~/Core/Common/Views/EditorTemplates/Parts/Common.Body.cshtml"
 msgid "Body"
-msgstr ""
+msgstr "內文"
 
 #: ~/Core/Dashboard/Views/Admin/Index.cshtml
 #| msgid "This is the place where you can manage your web site, its appearance and its contents. Please take a moment to explore the different menu items on the left of the screen to familiarize yourself with the features of the application. For example, try to change the theme through the ג€Manage Themesג€ menu entry. You can also create new pages and manage existing ones through the ג€Manage Pagesג€ menu entry or create blogs through ג€Manage Blogsג€."
@@ -1129,13 +1129,13 @@ msgstr ""
 #| msgid "Show on main menu"
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts/Navigation.Menu.Edit.cshtml"
 msgid "Show on main menu"
-msgstr ""
+msgstr "顯示於主選單"
 
 #: ~/Core/Navigation/Views/EditorTemplates/Parts/Navigation.Menu.Edit.cshtml
 #| msgid "Menu text"
 msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts/Navigation.Menu.Edit.cshtml"
 msgid "Menu text"
-msgstr ""
+msgstr "選單文字"
 
 #: Orchard.Core.Routable.Drivers.RoutePartDriver
 #| msgid "Slugs in conflict. \"{0}\" is already set for a previously created {2} so now it has the slug \"{1}\""
@@ -1147,25 +1147,25 @@ msgstr ""
 #| msgid "Global Settings"
 msgctxt "~/Core/Settings/Views/EditorTemplates/Parts/Settings.SiteSettingsPart.cshtml"
 msgid "Global Settings"
-msgstr ""
+msgstr "全域設定"
 
 #: ~/Core/Settings/Views/EditorTemplates/Parts/Settings.SiteSettingsPart.cshtml
 #| msgid "Site name"
 msgctxt "~/Core/Settings/Views/EditorTemplates/Parts/Settings.SiteSettingsPart.cshtml"
 msgid "Site name"
-msgstr ""
+msgstr "網站名稱"
 
 #: ~/Core/Settings/Views/EditorTemplates/Parts/Settings.SiteSettingsPart.cshtml
 #| msgid "Default Site Culture"
 msgctxt "~/Core/Settings/Views/EditorTemplates/Parts/Settings.SiteSettingsPart.cshtml"
 msgid "Default Site Culture"
-msgstr ""
+msgstr "預設網站文化"
 
 #: ~/Core/Settings/Views/EditorTemplates/Parts/Settings.SiteSettingsPart.cshtml
 #| msgid "Add or remove supported cultures for the site."
 msgctxt "~/Core/Settings/Views/EditorTemplates/Parts/Settings.SiteSettingsPart.cshtml"
 msgid "Add or remove supported cultures for the site."
-msgstr ""
+msgstr "新增或移除支援的網站文化"
 
 #: ~/Core/Settings/Views/EditorTemplates/Parts/Settings.SiteSettingsPart.cshtml
 #| msgid "Page title separator"
@@ -1177,13 +1177,13 @@ msgstr ""
 #| msgid "Super user"
 msgctxt "~/Core/Settings/Views/EditorTemplates/Parts/Settings.SiteSettingsPart.cshtml"
 msgid "Super user"
-msgstr ""
+msgstr "管理員"
 
 #: ~/Core/Settings/Views/EditorTemplates/Parts/Settings.SiteSettingsPart.cshtml
 #| msgid "Resource Debug Mode"
 msgctxt "~/Core/Settings/Views/EditorTemplates/Parts/Settings.SiteSettingsPart.cshtml"
 msgid "Resource Debug Mode"
-msgstr ""
+msgstr "資源除錯模式"
 
 #: ~/Core/Settings/Views/EditorTemplates/Parts/Settings.SiteSettingsPart.cshtml
 #| msgid "Determines whether scripts and stylesheets load in their debuggable or minified form."
@@ -1471,7 +1471,7 @@ msgstr ""
 #| msgid "Containers.Category"
 msgctxt "~/Core/Containers/Module.txt"
 msgid "Content"
-msgstr ""
+msgstr "內容"
 
 #: ~/Core/Contents/Module.txt
 #| msgid "Name"
@@ -1507,7 +1507,7 @@ msgstr ""
 #| msgid "Contents.Category"
 msgctxt "~/Core/Contents/Module.txt"
 msgid "Core"
-msgstr ""
+msgstr "核心"
 
 #: ~/Core/Dashboard/Module.txt
 #| msgid "Name"
@@ -3163,7 +3163,7 @@ msgstr "找不到內容"
 #| msgid "Weight"
 msgctxt "~/Core/Containers/Views/EditorTemplates/Containable.cshtml"
 msgid "Weight"
-msgstr ""
+msgstr "小工具"
 
 #: ~/Core/Containers/Views/EditorTemplates/Container.cshtml
 #| msgid "Show contained items list"
@@ -3187,7 +3187,7 @@ msgstr "標題（標題部分）"
 #| msgid "Title (Title Part)"
 msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
 msgid "Title (Title Part)"
-msgstr ""
+msgstr "標題（標題部分）"
 
 #: ~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml
 #| msgid "Default Time Zone"
@@ -3211,73 +3211,73 @@ msgstr ""
 #| msgid "<<"
 msgctxt "Orchard.Core.Shapes.CoreShapes"
 msgid "<<"
-msgstr ""
+msgstr "<<"
 
 #: Orchard.Core.Shapes.CoreShapes
 #| msgid "<"
 msgctxt "Orchard.Core.Shapes.CoreShapes"
 msgid "<"
-msgstr ""
+msgstr "<"
 
 #: Orchard.Core.Shapes.CoreShapes
 #| msgid ">"
 msgctxt "Orchard.Core.Shapes.CoreShapes"
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #: Orchard.Core.Shapes.CoreShapes
 #| msgid ">>"
 msgctxt "Orchard.Core.Shapes.CoreShapes"
 msgid ">>"
-msgstr ""
+msgstr ">>"
 
 #: Orchard.Core.Shapes.CoreShapes
 #| msgid "..."
 msgctxt "Orchard.Core.Shapes.CoreShapes"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: Orchard.Core.Shapes.Localization.DateTimeLocalization
 #| msgid "January, February, March, April, May, June, July, August, September, October, November, December"
 msgctxt "Orchard.Core.Shapes.Localization.DateTimeLocalization"
 msgid "January, February, March, April, May, June, July, August, September, October, November, December"
-msgstr ""
+msgstr "一月, 二月, 三月, 四月, 五月, 六月, 七月, 八月, 九月, 十月, 十一月, 十二月"
 
 #: Orchard.Core.Shapes.Localization.DateTimeLocalization
 #| msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
 msgctxt "Orchard.Core.Shapes.Localization.DateTimeLocalization"
 msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
-msgstr ""
+msgstr "一月, 二月, 三月, 四月, 五月, 六月, 七月, 八月, 九月, 十月, 十一月, 十二月"
 
 #: Orchard.Core.Shapes.Localization.DateTimeLocalization
 #| msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
 msgctxt "Orchard.Core.Shapes.Localization.DateTimeLocalization"
 msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
-msgstr ""
+msgstr "星期一,星期二,星期三,星期四,星期五,星期六,星期日"
 
 #: Orchard.Core.Shapes.Localization.DateTimeLocalization
 #| msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
 msgctxt "Orchard.Core.Shapes.Localization.DateTimeLocalization"
 msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
-msgstr ""
+msgstr "日,一,二,三,四,五,六"
 
 #: Orchard.Core.Shapes.Localization.DateTimeLocalization
 #| msgid "Su, Mo, Tu, We, Th, Fr, Sa"
 msgctxt "Orchard.Core.Shapes.Localization.DateTimeLocalization"
 msgid "Su, Mo, Tu, We, Th, Fr, Sa"
-msgstr ""
+msgstr "日,一,二,三,四,五,六"
 
 #: Orchard.Core.Shapes.Localization.DateTimeLocalization
 #| msgid "M/d/yyyy"
 msgctxt "Orchard.Core.Shapes.Localization.DateTimeLocalization"
 msgid "M/d/yyyy"
-msgstr ""
+msgstr "月/日/年"
 
 #: Orchard.Core.Shapes.Localization.DateTimeLocalization
 #| msgid "h:mm tt"
 msgctxt "Orchard.Core.Shapes.Localization.DateTimeLocalization"
 msgid "h:mm tt"
-msgstr ""
+msgstr "時:分:秒"
 
 #: Orchard.Core.Shapes.Localization.DateTimeLocalization
 #| msgid "MMM d yyyy h:mm tt"
@@ -3289,7 +3289,7 @@ msgstr ""
 #| msgid "firstDay: 1"
 msgctxt "Orchard.Core.Shapes.Localization.DateTimeLocalization"
 msgid "firstDay: 1"
-msgstr ""
+msgstr "第一天：1"
 
 #: Orchard.Core.Shapes.Localization.DateTimeLocalization
 #| msgid "isRTL: false"
