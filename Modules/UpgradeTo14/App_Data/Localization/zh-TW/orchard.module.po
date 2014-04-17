@@ -1,0 +1,149 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/UpgradeTo14/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/UpgradeTo14/Module.txt"
+msgid "UpgradeTo14"
+msgstr ""
+
+#: ~/Modules/UpgradeTo14/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/UpgradeTo14/Module.txt"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/UpgradeTo14/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/UpgradeTo14/Module.txt"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/UpgradeTo14/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/UpgradeTo14/Module.txt"
+msgid "Description for the module"
+msgstr ""
+
+#: ~/Modules/UpgradeTo14/Module.txt
+#| msgid "UpgradeTo14.Description"
+msgctxt "~/Modules/UpgradeTo14/Module.txt"
+msgid "Description for feature UpgradeTo14."
+msgstr ""
+
+#: UpgradeTo14.AdminMenu
+#| msgid "Migrate to 1.4"
+msgctxt "UpgradeTo14.AdminMenu"
+msgid "Migrate to 1.4"
+msgstr ""
+
+#: UpgradeTo14.AdminMenu
+#| msgid "Migrate Routes"
+msgctxt "UpgradeTo14.AdminMenu"
+msgid "Migrate Routes"
+msgstr ""
+
+#: UpgradeTo14.AdminMenu
+#| msgid "Migrate Fields"
+msgctxt "UpgradeTo14.AdminMenu"
+msgid "Migrate Fields"
+msgstr ""
+
+#: UpgradeTo14.Controllers.FieldController
+#| msgid "There are no content types with custom fields"
+msgctxt "UpgradeTo14.Controllers.FieldController"
+msgid "There are no content types with custom fields"
+msgstr ""
+
+#: UpgradeTo14.Controllers.FieldController
+#| msgid "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
+msgctxt "UpgradeTo14.Controllers.FieldController"
+msgid "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
+msgstr ""
+
+#: UpgradeTo14.Controllers.FieldController
+#| msgid "Not allowed to migrate fields."
+msgctxt "UpgradeTo14.Controllers.FieldController"
+msgid "Not allowed to migrate fields."
+msgstr ""
+
+#: UpgradeTo14.Controllers.FieldController
+#| msgid "{0} fields were migrated successfully"
+msgctxt "UpgradeTo14.Controllers.FieldController"
+msgid "{0} fields were migrated successfully"
+msgstr ""
+
+#: UpgradeTo14.Controllers.RouteController
+#| msgid "There are no content types with RoutePart"
+msgctxt "UpgradeTo14.Controllers.RouteController"
+msgid "There are no content types with RoutePart"
+msgstr ""
+
+#: UpgradeTo14.Controllers.RouteController
+#| msgid "Not allowed to migrate routes."
+msgctxt "UpgradeTo14.Controllers.RouteController"
+msgid "Not allowed to migrate routes."
+msgstr ""
+
+#: UpgradeTo14.Controllers.RouteController
+#| msgid "Some content items could not be imported. Please refer to the corresponding Report."
+msgctxt "UpgradeTo14.Controllers.RouteController"
+msgid "Some content items could not be imported. Please refer to the corresponding Report."
+msgstr ""
+
+#: UpgradeTo14.Controllers.RouteController
+#| msgid "{0} was migrated successfully"
+msgctxt "UpgradeTo14.Controllers.RouteController"
+msgid "{0} was migrated successfully"
+msgstr ""
+
+#: ~/Modules/UpgradeTo14/Views/Field/Index.cshtml
+#| msgid "Migrate Fields"
+msgctxt "~/Modules/UpgradeTo14/Views/Field/Index.cshtml"
+msgid "Migrate Fields"
+msgstr ""
+
+#: ~/Modules/UpgradeTo14/Views/Field/Index.cshtml
+#| msgid "Choose the types to migrate:"
+msgctxt "~/Modules/UpgradeTo14/Views/Field/Index.cshtml"
+msgid "Choose the types to migrate:"
+msgstr ""
+
+#: ~/Modules/UpgradeTo14/Views/Field/Index.cshtml
+#| msgid "The migration process fields data. You will still need to enable Orchard.Fields, and remove Contrib.DateTime and Contrib.MediaPicker if you have installed them."
+msgctxt "~/Modules/UpgradeTo14/Views/Field/Index.cshtml"
+msgid "The migration process fields data. You will still need to enable Orchard.Fields, and remove Contrib.DateTime and Contrib.MediaPicker if you have installed them."
+msgstr ""
+
+#: ~/Modules/UpgradeTo14/Views/Field/Index.cshtml
+#| msgid "Migrate"
+msgctxt "~/Modules/UpgradeTo14/Views/Field/Index.cshtml"
+msgid "Migrate"
+msgstr ""
+
+#: ~/Modules/UpgradeTo14/Views/Route/Index.cshtml
+#| msgid "Migrate Routes"
+msgctxt "~/Modules/UpgradeTo14/Views/Route/Index.cshtml"
+msgid "Migrate Routes"
+msgstr ""
+
+#: ~/Modules/UpgradeTo14/Views/Route/Index.cshtml
+#| msgid "Choose the types to migrate:"
+msgctxt "~/Modules/UpgradeTo14/Views/Route/Index.cshtml"
+msgid "Choose the types to migrate:"
+msgstr ""
+
+#: ~/Modules/UpgradeTo14/Views/Route/Index.cshtml
+#| msgid "The migration process will move the Route and Title properties by adding an Autoroute and a Title part to all the content items for the selected content types."
+msgctxt "~/Modules/UpgradeTo14/Views/Route/Index.cshtml"
+msgid "The migration process will move the Route and Title properties by adding an Autoroute and a Title part to all the content items for the selected content types."
+msgstr ""
+
+#: ~/Modules/UpgradeTo14/Views/Route/Index.cshtml
+#| msgid "Migrate"
+msgctxt "~/Modules/UpgradeTo14/Views/Route/Index.cshtml"
+msgid "Migrate"
+msgstr ""
+

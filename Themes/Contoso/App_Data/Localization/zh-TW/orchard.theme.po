@@ -1,0 +1,47 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Themes/Contoso/Theme.txt
+#| msgid "Name"
+msgctxt "~/Themes/Contoso/Theme.txt"
+msgid "Contoso"
+msgstr "Contoso"
+
+#: ~/Themes/Contoso/Theme.txt
+#| msgid "Author"
+msgctxt "~/Themes/Contoso/Theme.txt"
+msgid "The Orchard Team"
+msgstr "Orchard 團隊"
+
+#: ~/Themes/Contoso/Theme.txt
+#| msgid "Description"
+msgctxt "~/Themes/Contoso/Theme.txt"
+msgid "A subtle and simple CMS theme perfect for any modern product or service business website."
+msgstr "A subtle and simple CMS theme perfect for any modern product or service business website."
+
+#: ~/Themes/Contoso/Theme.txt
+#| msgid "Tags"
+msgctxt "~/Themes/Contoso/Theme.txt"
+msgid "business, cms, modern, simple, subtle, product, service"
+msgstr "business, cms, modern, simple, subtle, product, service"
+
+#: ~/Themes/Contoso/Theme.txt
+#| msgid "Website"
+msgctxt "~/Themes/Contoso/Theme.txt"
+msgid "http://www.orchardproject.net"
+msgstr "http://www.orchardproject.net"
+
+#: ~/Themes/Contoso/Views/BadgeOfHonor.cshtml
+#| msgid "&#169; Contoso Company 2010."
+msgctxt "~/Themes/Contoso/Views/BadgeOfHonor.cshtml"
+msgid "&#169; Contoso Company 2010."
+msgstr "&#169; Contoso Company 2010."
+
+#: ~/Themes/Contoso/Views/BadgeOfHonor.cshtml
+#| msgid "Powered by <a href=\"{0}\" target=\"_blank\">Orchard</a>"
+msgctxt "~/Themes/Contoso/Views/BadgeOfHonor.cshtml"
+msgid "Powered by <a href=\"{0}\" target=\"_blank\">Orchard</a>"
+msgstr ""
+

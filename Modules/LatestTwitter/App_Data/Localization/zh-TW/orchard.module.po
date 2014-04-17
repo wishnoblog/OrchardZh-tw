@@ -1,0 +1,119 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/LatestTwitter/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/LatestTwitter/Module.txt"
+msgid "LatestTwitter"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/LatestTwitter/Module.txt"
+msgid "Maarten Balliauw"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/LatestTwitter/Module.txt"
+msgid "http://blog.maartenballiauw.be"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/LatestTwitter/Module.txt"
+msgid "Display latest Tweets for a user in a widget."
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Module.txt
+#| msgid "LatestTwitter.Description"
+msgctxt "~/Modules/LatestTwitter/Module.txt"
+msgid "Display latest Tweets for a user in a widget."
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Module.txt
+#| msgid "LatestTwitter.Category"
+msgctxt "~/Modules/LatestTwitter/Module.txt"
+msgid "Widget"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Twitter username"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Twitter username"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Number of Tweets to display"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Number of Tweets to display"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Time to cache Tweets (in minutes)"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Time to cache Tweets (in minutes)"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Additional options"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Additional options"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Show avatars"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Show avatars"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Show username in tweets"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Show username in tweets"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Show timestamps"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Show timestamps"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Show as links"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Show as links"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Show mentions as links"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Show mentions as links"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml
+#| msgid "Show hashtags as links"
+msgctxt "~/Modules/LatestTwitter/Views/EditorTemplates/Parts/TwitterWidget.cshtml"
+msgid "Show hashtags as links"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Views/Parts/TwitterWidget.cshtml
+#| msgid "follow"
+msgctxt "~/Modules/LatestTwitter/Views/Parts/TwitterWidget.cshtml"
+msgid "follow"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Views/Parts/TwitterWidget.cshtml
+#| msgid "on twitter"
+msgctxt "~/Modules/LatestTwitter/Views/Parts/TwitterWidget.cshtml"
+msgid "on twitter"
+msgstr ""
+
+#: ~/Modules/LatestTwitter/Views/Parts/TwitterWidget.cshtml
+#| msgid " "
+msgctxt "~/Modules/LatestTwitter/Views/Parts/TwitterWidget.cshtml"
+msgid " "
+msgstr ""
+

@@ -1,0 +1,143 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard 團隊"
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "The scripting module enables the possibility to execute scripts using a simple custom scripting language."
+msgstr "腳本模組可以讓使用者自定簡單的腳本語言。"
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Orchard.Scripting.Name"
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Scripting"
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Orchard.Scripting.Description"
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Scripting support."
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Orchard.Scripting.Category"
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Scripting"
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Orchard.Scripting.Lightweight.Name"
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Lightweight scripting"
+msgstr "輕量腳本語言"
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Orchard.Scripting.Lightweight.Description"
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Custom lightweight and simple scripting language."
+msgstr "自定輕量且簡單的腳本語言。"
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Orchard.Scripting.Lightweight.Category"
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Scripting"
+msgstr "腳本"
+
+#: Orchard.Scripting.ScriptExpressionEvaluator
+#| msgid "Syntax error: {0}"
+msgctxt "Orchard.Scripting.ScriptExpressionEvaluator"
+msgid "Syntax error: {0}"
+msgstr "語法錯誤: {0}"
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Scripting"
+msgstr "腳本"
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Orchard.Scripting.Rules.Name"
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Scripting Rules"
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Orchard.Scripting.Rules.Description"
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Rules for the Scripting modules"
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Orchard.Scripting.Rules.Category"
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Rules"
+msgstr ""
+
+#: Orchard.Scripting.Rules.ConditionActions
+#| msgid "Conditions"
+msgctxt "Orchard.Scripting.Rules.ConditionActions"
+msgid "Conditions"
+msgstr ""
+
+#: Orchard.Scripting.Rules.ConditionActions
+#| msgid "Script condition"
+msgctxt "Orchard.Scripting.Rules.ConditionActions"
+msgid "Script condition"
+msgstr ""
+
+#: Orchard.Scripting.Rules.ConditionActions
+#| msgid "Evaluates a boolean using a scripting engine."
+msgctxt "Orchard.Scripting.Rules.ConditionActions"
+msgid "Evaluates a boolean using a scripting engine."
+msgstr ""
+
+#: Orchard.Scripting.Rules.ConditionActions
+#| msgid "There are currently no scripting engine enabled"
+msgctxt "Orchard.Scripting.Rules.ConditionActions"
+msgid "There are currently no scripting engine enabled"
+msgstr ""
+
+#: Orchard.Scripting.Rules.ConditionActions
+#| msgid "Expression is not a boolean value"
+msgctxt "Orchard.Scripting.Rules.ConditionActions"
+msgid "Expression is not a boolean value"
+msgstr ""
+
+#: Orchard.Scripting.Rules.ConditionForms
+#| msgid "Description"
+msgctxt "Orchard.Scripting.Rules.ConditionForms"
+msgid "Description"
+msgstr ""
+
+#: Orchard.Scripting.Rules.ConditionForms
+#| msgid "Message that will be displayed in the Actions list."
+msgctxt "Orchard.Scripting.Rules.ConditionForms"
+msgid "Message that will be displayed in the Actions list."
+msgstr ""
+
+#: Orchard.Scripting.Rules.ConditionForms
+#| msgid "Condition"
+msgctxt "Orchard.Scripting.Rules.ConditionForms"
+msgid "Condition"
+msgstr ""
+
+#: Orchard.Scripting.Rules.ConditionForms
+#| msgid "Enter a valid boolean expression to evaluate."
+msgctxt "Orchard.Scripting.Rules.ConditionForms"
+msgid "Enter a valid boolean expression to evaluate."
+msgstr ""
+

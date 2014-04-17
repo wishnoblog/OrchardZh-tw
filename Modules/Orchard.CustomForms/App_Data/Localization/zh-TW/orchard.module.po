@@ -1,0 +1,353 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.CustomForms/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.CustomForms/Module.txt"
+msgid "Custom Forms"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.CustomForms/Module.txt"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.CustomForms/Module.txt"
+msgid "http://orchardcustomforms.codeplex.com"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.CustomForms/Module.txt"
+msgid "Create custom forms like contact forms or content contributions."
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Module.txt
+#| msgid "Orchard.CustomForms.Name"
+msgctxt "~/Modules/Orchard.CustomForms/Module.txt"
+msgid "Custom Forms"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Module.txt
+#| msgid "Orchard.CustomForms.Description"
+msgctxt "~/Modules/Orchard.CustomForms/Module.txt"
+msgid "Create custom forms like contact forms or content contributions."
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Module.txt
+#| msgid "Orchard.CustomForms.Category"
+msgctxt "~/Modules/Orchard.CustomForms/Module.txt"
+msgid "Forms"
+msgstr ""
+
+#: Orchard.CustomForms.AdminMenu
+#| msgid "Forms"
+msgctxt "Orchard.CustomForms.AdminMenu"
+msgid "Forms"
+msgstr ""
+
+#: Orchard.CustomForms.AdminMenu
+#| msgid "Manage Forms"
+msgctxt "Orchard.CustomForms.AdminMenu"
+msgid "Manage Forms"
+msgstr ""
+
+#: Orchard.CustomForms.Controllers.AdminController
+#| msgid "Not authorized to list custom forms"
+msgctxt "Orchard.CustomForms.Controllers.AdminController"
+msgid "Not authorized to list custom forms"
+msgstr ""
+
+#: Orchard.CustomForms.Controllers.AdminController
+#| msgid "Not authorized to manage customForm"
+msgctxt "Orchard.CustomForms.Controllers.AdminController"
+msgid "Not authorized to manage customForm"
+msgstr ""
+
+#: Orchard.CustomForms.Controllers.ItemController
+#| msgid "The content type must have CommonPart attached"
+msgctxt "Orchard.CustomForms.Controllers.ItemController"
+msgid "The content type must have CommonPart attached"
+msgstr ""
+
+#: Orchard.CustomForms.Controllers.ItemController
+#| msgid "Cannot create content"
+msgctxt "Orchard.CustomForms.Controllers.ItemController"
+msgid "Cannot create content"
+msgstr ""
+
+#: Orchard.CustomForms.Controllers.ItemController
+#| msgid "Couldn't create content"
+msgctxt "Orchard.CustomForms.Controllers.ItemController"
+msgid "Couldn't create content"
+msgstr ""
+
+#: Orchard.CustomForms.Rules.CustomFormEvents
+#| msgid "Custom Forms"
+msgctxt "Orchard.CustomForms.Rules.CustomFormEvents"
+msgid "Custom Forms"
+msgstr ""
+
+#: Orchard.CustomForms.Rules.CustomFormEvents
+#| msgid "Custom Form Submitted"
+msgctxt "Orchard.CustomForms.Rules.CustomFormEvents"
+msgid "Custom Form Submitted"
+msgstr ""
+
+#: Orchard.CustomForms.Rules.CustomFormEvents
+#| msgid "Custom Form is submitted."
+msgctxt "Orchard.CustomForms.Rules.CustomFormEvents"
+msgid "Custom Form is submitted."
+msgstr ""
+
+#: Orchard.CustomForms.Rules.CustomFormEvents
+#| msgid "When a custom form for types ({0}) is submitted."
+msgctxt "Orchard.CustomForms.Rules.CustomFormEvents"
+msgid "When a custom form for types ({0}) is submitted."
+msgstr ""
+
+#: Orchard.CustomForms.Rules.CustomFormEvents
+#| msgid "Any"
+msgctxt "Orchard.CustomForms.Rules.CustomFormEvents"
+msgid "Any"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Parts.CustomForm.SummaryAdmin.cshtml
+#| msgid "Renders a form for {0}"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Parts.CustomForm.SummaryAdmin.cshtml"
+msgid "Renders a form for {0}"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Parts.CustomForm.Wrapper.cshtml
+#| msgid "Submit"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Parts.CustomForm.Wrapper.cshtml"
+msgid "Submit"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Manage Custom Forms"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Manage Custom Forms"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Add a new Custom Form"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Add a new Custom Form"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Choose action..."
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Choose action..."
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Publish"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Publish"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Unpublish"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Unpublish"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Sort by:"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Sort by:"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Creation date"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Creation date"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Show:"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Show:"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "All"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "All"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Filter"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Filter"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Title"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Title"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Content Type"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Content Type"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "-"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "-"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Widget"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Widget"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid " | "
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid " | "
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Submissions"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Submissions"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+#| msgid "Actions:"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgid "Actions:"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+#| msgid "Choose action..."
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgid "Choose action..."
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+#| msgid "Publish Now"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgid "Publish Now"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+#| msgid "Unpublish"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgid "Unpublish"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgid "Delete"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+#| msgid "Apply"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgid "Apply"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+#| msgid "There are no submissions for this form."
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgid "There are no submissions for this form."
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "Content Type"
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "Content Type"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "Select the content type which will be used to render the custom form."
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "Select the content type which will be used to render the custom form."
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "Save the content item once the form is submitted"
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "Save the content item once the form is submitted"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "Check if you want to save the content item associated to the form. Leave empty if you just want to trigger an action on the event."
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "Check if you want to save the content item associated to the form. Leave empty if you just want to trigger an action on the event."
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "Specificy a custom message when the form is submitted"
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "Specificy a custom message when the form is submitted"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "The custom message to display to the user when the form is submitted. Leave empty if no messages should be displayed."
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "The custom message to display to the user when the form is submitted. Leave empty if no messages should be displayed."
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "Redirect the user once the form is submitted"
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "Redirect the user once the form is submitted"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "The url the user should be redirected to once the form is successfully submitted. e.g.: ~/About"
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "The url the user should be redirected to once the form is successfully submitted. e.g.: ~/About"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/Item/Create.cshtml
+#| msgid "Submit"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Item/Create.cshtml"
+msgid "Submit"
+msgstr ""
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "Specify a custom message when the form is submitted"
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "Specify a custom message when the form is submitted"
+msgstr ""
+

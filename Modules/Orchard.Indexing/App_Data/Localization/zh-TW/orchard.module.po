@@ -1,0 +1,467 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: Orchard.Indexing.AdminMenu
+#| msgid "Settings"
+msgctxt "Orchard.Indexing.AdminMenu"
+msgid "Settings"
+msgstr "設定"
+
+#: Orchard.Indexing.Services.IndexingService
+#| msgid "The index {0} has been rebuilt."
+msgctxt "Orchard.Indexing.Services.IndexingService"
+msgid "The index {0} has been rebuilt."
+msgstr "索引 {0} 已被重建。"
+
+#: Orchard.Indexing.Services.IndexingService
+#| msgid "The index {0} could no ben rebuilt. It might already be in use, please try again later."
+msgctxt "Orchard.Indexing.Services.IndexingService"
+msgid "The index {0} could no ben rebuilt. It might already be in use, please try again later."
+msgstr "無法重建索引 {0}。因為它可能正被使用，請稍後再嘗試。"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "Settings"
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "Settings"
+msgstr "設定"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "Search Index"
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "Search Index"
+msgstr "搜尋索引"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "The indexing process is currently being rebuilt."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "The indexing process is currently being rebuilt."
+msgstr "重建索引程序正在執行中。"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "The indexing process is currently being updated."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "The indexing process is currently being updated."
+msgstr "索引程序正在更新中。"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "Rebuild the search index for a fresh start:"
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "Rebuild the search index for a fresh start:"
+msgstr "剛開始時重新建立搜尋索引:"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "The search index contains the following fields: {0}."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "The search index contains the following fields: {0}."
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Indexing/Module.txt"
+msgid "Indexing"
+msgstr "索引"
+
+#: Orchard.Indexing.Controllers.AdminController
+#| msgid "The index might be corrupted. If you can't recover click on Rebuild."
+msgctxt "Orchard.Indexing.Controllers.AdminController"
+msgid "The index might be corrupted. If you can't recover click on Rebuild."
+msgstr ""
+
+#: Orchard.Indexing.Services.IndexServiceNotificationProvider
+#| msgid "You need to enable an index implementation module like Lucene."
+msgctxt "Orchard.Indexing.Services.IndexServiceNotificationProvider"
+msgid "You need to enable an index implementation module like Lucene."
+msgstr ""
+
+#: Orchard.Indexing.AdminMenu
+#| msgid "Indexes"
+msgctxt "Orchard.Indexing.AdminMenu"
+msgid "Indexes"
+msgstr ""
+
+#: Orchard.Indexing.Commands.IndexingCommands
+#| msgid "No index service available"
+msgctxt "Orchard.Indexing.Commands.IndexingCommands"
+msgid "No index service available"
+msgstr ""
+
+#: Orchard.Indexing.Commands.IndexingCommands
+#| msgid "Invalid index name."
+msgctxt "Orchard.Indexing.Commands.IndexingCommands"
+msgid "Invalid index name."
+msgstr ""
+
+#: Orchard.Indexing.Commands.IndexingCommands
+#| msgid "New index has been created successfully."
+msgctxt "Orchard.Indexing.Commands.IndexingCommands"
+msgid "New index has been created successfully."
+msgstr ""
+
+#: Orchard.Indexing.Controllers.AdminController
+#| msgid "Invalid index name."
+msgctxt "Orchard.Indexing.Controllers.AdminController"
+msgid "Invalid index name."
+msgstr ""
+
+#: Orchard.Indexing.Controllers.AdminController
+#| msgid "An index with the same name already exists: {0}"
+msgctxt "Orchard.Indexing.Controllers.AdminController"
+msgid "An index with the same name already exists: {0}"
+msgstr ""
+
+#: Orchard.Indexing.Controllers.AdminController
+#| msgid "Index named {0} created successfully"
+msgctxt "Orchard.Indexing.Controllers.AdminController"
+msgid "Index named {0} created successfully"
+msgstr ""
+
+#: Orchard.Indexing.Controllers.AdminController
+#| msgid "An error occured while creating the index: {0}"
+msgctxt "Orchard.Indexing.Controllers.AdminController"
+msgid "An error occured while creating the index: {0}"
+msgstr ""
+
+#: Orchard.Indexing.Services.IndexingService
+#| msgid "There is no index to rebuild."
+msgctxt "Orchard.Indexing.Services.IndexingService"
+msgid "There is no index to rebuild."
+msgstr ""
+
+#: Orchard.Indexing.Services.IndexingService
+#| msgid "The index {0} could not be rebuilt. It might already be in use, please try again later."
+msgctxt "Orchard.Indexing.Services.IndexingService"
+msgid "The index {0} could not be rebuilt. It might already be in use, please try again later."
+msgstr ""
+
+#: Orchard.Indexing.Services.IndexingService
+#| msgid "There is no index to delete."
+msgctxt "Orchard.Indexing.Services.IndexingService"
+msgid "There is no index to delete."
+msgstr ""
+
+#: Orchard.Indexing.Services.IndexingService
+#| msgid "The index {0} has been deleted."
+msgctxt "Orchard.Indexing.Services.IndexingService"
+msgid "The index {0} has been deleted."
+msgstr ""
+
+#: Orchard.Indexing.Services.IndexingService
+#| msgid "The index {0} could not be deleted. It might already be in use, please try again later."
+msgctxt "Orchard.Indexing.Services.IndexingService"
+msgid "The index {0} could not be deleted. It might already be in use, please try again later."
+msgstr ""
+
+#: Orchard.Indexing.Services.IndexingService
+#| msgid "The index {0} has been updated."
+msgctxt "Orchard.Indexing.Services.IndexingService"
+msgid "The index {0} has been updated."
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Create.cshtml
+#| msgid "Create Index"
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Create.cshtml"
+msgid "Create Index"
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Create.cshtml
+#| msgid "The technical name of the index to create. Must contain letters and numbers only."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Create.cshtml"
+msgid "The technical name of the index to create. Must contain letters and numbers only."
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Create.cshtml
+#| msgid "Create"
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Create.cshtml"
+msgid "Create"
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "Indexes"
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "Indexes"
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "{0} document(s)"
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "{0} document(s)"
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "Updated {0}"
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "Updated {0}"
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "No fields."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "No fields."
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "Fields: {0}."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "Fields: {0}."
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "The index is currently not available. Try to rebuild it."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "The index is currently not available. Try to rebuild it."
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "There is currently no index."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "There is currently no index."
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "Create"
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "Create"
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Views/DefinitionTemplates/TypeIndexing.cshtml
+#| msgid "Index this content type in:"
+msgctxt "~/Modules/Orchard.Indexing/Views/DefinitionTemplates/TypeIndexing.cshtml"
+msgid "Index this content type in:"
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Indexing/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard 團隊"
+
+#: ~/Modules/Orchard.Indexing/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Indexing/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.Indexing/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Indexing/Module.txt"
+msgid "The Indexing module enables the site to be indexed. The index generated by this module can then be used by the search module to provide an integrated full-text search experience to a web site."
+msgstr "索引模組可以在網站上建立索引。被索引模組建立的索引可以讓搜尋模組進行全文搜尋。"
+
+#: ~/Modules/Orchard.Indexing/Module.txt
+#| msgid "Orchard.Indexing.Name"
+msgctxt "~/Modules/Orchard.Indexing/Module.txt"
+msgid "Indexing"
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Module.txt
+#| msgid "Orchard.Indexing.Description"
+msgctxt "~/Modules/Orchard.Indexing/Module.txt"
+msgid "Indexing infrastructure. Requires an index implementation like the Lucene module."
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Module.txt
+#| msgid "Orchard.Indexing.Category"
+msgctxt "~/Modules/Orchard.Indexing/Module.txt"
+msgid "Search"
+msgstr ""
+
+#: Orchard.Indexing.AdminMenu
+#| msgid "Configuration"
+msgctxt "Orchard.Indexing.AdminMenu"
+msgid "Configuration"
+msgstr ""
+
+#: Orchard.Indexing.AdminMenu
+#| msgid "Search Index"
+msgctxt "Orchard.Indexing.AdminMenu"
+msgid "Search Index"
+msgstr "搜尋索引"
+
+#: Orchard.Indexing.Commands.IndexingCommands
+#| msgid "Index is now being updated..."
+msgctxt "Orchard.Indexing.Commands.IndexingCommands"
+msgid "Index is now being updated..."
+msgstr "索引正在更新中..."
+
+#: Orchard.Indexing.Commands.IndexingCommands
+#| msgid "Index is now being rebuilt..."
+msgctxt "Orchard.Indexing.Commands.IndexingCommands"
+msgid "Index is now being rebuilt..."
+msgstr "索引正在重建中..."
+
+#: Orchard.Indexing.Commands.IndexingCommands
+#| msgid "No index available"
+msgctxt "Orchard.Indexing.Commands.IndexingCommands"
+msgid "No index available"
+msgstr "沒有可用的索引"
+
+#: Orchard.Indexing.Commands.IndexingCommands
+#| msgid "End of search results"
+msgctxt "Orchard.Indexing.Commands.IndexingCommands"
+msgid "End of search results"
+msgstr "搜尋結果"
+
+#: Orchard.Indexing.Commands.IndexingCommands
+#| msgid "Number of indexed documents: {0}"
+msgctxt "Orchard.Indexing.Commands.IndexingCommands"
+msgid "Number of indexed documents: {0}"
+msgstr "索引檔案數量: {0}"
+
+#: Orchard.Indexing.Commands.IndexingCommands
+#| msgid "Invalid content item id. Not an integer."
+msgctxt "Orchard.Indexing.Commands.IndexingCommands"
+msgid "Invalid content item id. Not an integer."
+msgstr "無效的主題項目 ID。非整數。"
+
+#: Orchard.Indexing.Commands.IndexingCommands
+#| msgid "Content Item marked for reindexing"
+msgctxt "Orchard.Indexing.Commands.IndexingCommands"
+msgid "Content Item marked for reindexing"
+msgstr "標記要重建索引的主題項目"
+
+#: Orchard.Indexing.Commands.IndexingCommands
+#| msgid "Content Item marked for deletion"
+msgctxt "Orchard.Indexing.Commands.IndexingCommands"
+msgid "Content Item marked for deletion"
+msgstr "標記要刪除的主題項目"
+
+#: Orchard.Indexing.Controllers.AdminController
+#| msgid "There is no search index to manage for this site."
+msgctxt "Orchard.Indexing.Controllers.AdminController"
+msgid "There is no search index to manage for this site."
+msgstr "此網站無搜尋索引可供管理。"
+
+#: Orchard.Indexing.Controllers.AdminController
+#| msgid "Not allowed to manage the search index."
+msgctxt "Orchard.Indexing.Controllers.AdminController"
+msgid "Not allowed to manage the search index."
+msgstr "不允許管理搜尋索引。"
+
+#: Orchard.Indexing.Services.IndexingService
+#| msgid "There is no search index to rebuild."
+msgctxt "Orchard.Indexing.Services.IndexingService"
+msgid "There is no search index to rebuild."
+msgstr "沒有搜尋索引被重建。"
+
+#: Orchard.Indexing.Services.IndexingService
+#| msgid "The search index has been rebuilt."
+msgctxt "Orchard.Indexing.Services.IndexingService"
+msgid "The search index has been rebuilt."
+msgstr ""
+
+#: Orchard.Indexing.Services.IndexingService
+#| msgid "The search index has been updated."
+msgctxt "Orchard.Indexing.Services.IndexingService"
+msgid "The search index has been updated."
+msgstr "搜尋索引已被更新。"
+
+#: Orchard.Indexing.Services.IndexServiceNotificationProvider:
+#| msgid "You need to enable an index implementation module like Lucene."
+msgctxt "Orchard.Indexing.Services.IndexServiceNotificationProvider:"
+msgid "You need to enable an index implementation module like Lucene."
+msgstr "您需要啟用像 Lucene 一樣的索引實現模組。"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "Search Index Management"
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "Search Index Management"
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "There is currently no search index"
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "There is currently no search index"
+msgstr "目前還沒有搜尋索引"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "The search index has not been built yet."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "The search index has not been built yet."
+msgstr "搜尋索引尚未建立完畢。"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "The search index does not contain any document."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "The search index does not contain any document."
+msgstr "搜尋索引不包含任何檔案。"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "The search index contains {0} document(s)."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "The search index contains {0} document(s)."
+msgstr "搜尋索引包含 {0} 個檔案。"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "The search index does not contain any field."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "The search index does not contain any field."
+msgstr "搜尋索引不包含任何欄位。"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid ", "
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid ", "
+msgstr ", "
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "The search index was last updated {0}."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "The search index was last updated {0}."
+msgstr "搜尋索引最後更新 {0}。"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "Update the search index now: "
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "Update the search index now: "
+msgstr "現在更新搜尋索引:"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "Update the search index."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "Update the search index."
+msgstr "更新搜尋索引。"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "Update"
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "Update"
+msgstr "更新"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "Rebuild the search index for a fresh start."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "Rebuild the search index for a fresh start."
+msgstr ""
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "Rebuild the search index."
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "Rebuild the search index."
+msgstr "重新建立搜尋索引。"
+
+#: ~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml
+#| msgid "Rebuild"
+msgctxt "~/Modules/Orchard.Indexing/Views/Admin/Index.cshtml"
+msgid "Rebuild"
+msgstr "重新建立"
+
+#: ~/Modules/Orchard.Indexing/Views/DefinitionTemplates/FieldIndexing.cshtml
+#| msgid "Include in the index"
+msgctxt "~/Modules/Orchard.Indexing/Views/DefinitionTemplates/FieldIndexing.cshtml"
+msgid "Include in the index"
+msgstr "包含在索引中"
+
+#: ~/Modules/Orchard.Indexing/Views/DefinitionTemplates/TypeIndexing.cshtml
+#| msgid "Index this content type for search"
+msgctxt "~/Modules/Orchard.Indexing/Views/DefinitionTemplates/TypeIndexing.cshtml"
+msgid "Index this content type for search"
+msgstr "為搜尋建立此主題分類的索引"
+

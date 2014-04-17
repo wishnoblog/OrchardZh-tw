@@ -1,0 +1,131 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Recipes/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Recipes/Module.txt"
+msgid "Recipes"
+msgstr "方法"
+
+#: ~/Modules/Orchard.Recipes/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Recipes/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard 團隊"
+
+#: ~/Modules/Orchard.Recipes/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Recipes/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.Recipes/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Recipes/Module.txt"
+msgid "Provides Orchard Recipes."
+msgstr "提供 Orchard 方法。"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "Could not discover recipes because module '{0}' was not found."
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "Could not discover recipes because module '{0}' was not found."
+msgstr "無法發現方法，因為找不到模組 '{0}'。"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "No recipes found for extension {0}."
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "No recipes found for extension {0}."
+msgstr "找不到延伸方法 {0}。"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "List of available recipes"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "List of available recipes"
+msgstr "列出可用的方法"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "--------------------------"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "--------------------------"
+msgstr "--------------------------"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "Recipe: {0}"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "Recipe: {0}"
+msgstr "方法: {0}"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "  Version:     {0}"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "  Version:     {0}"
+msgstr "版本: {0}"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "  Tags:        {0}"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "  Tags:        {0}"
+msgstr "類型: {0}"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "  Description: {0}"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "  Description: {0}"
+msgstr "說明: {0}"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "  Author:      {0}"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "  Author:      {0}"
+msgstr "作者: {0}"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "  Website:     {0}"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "  Website:     {0}"
+msgstr "網站: {0}"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "Invalid recipe name {0}."
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "Invalid recipe name {0}."
+msgstr "錯誤的方法名稱 {0}。"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "Recipe scheduled for execution successfully."
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "Recipe scheduled for execution successfully."
+msgstr "方法計劃執行成功。"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "Recipe failed to execute."
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "Recipe failed to execute."
+msgstr "方法無法執行。"
+
+#: Orchard.Recipes.Services.RecipeStepExecutor
+#| msgid "Recipe execution with id {0} was cancelled because the \"{1}\" step failed to execute. The following exception was thrown: {2}. Refer to the recipe journal for more information."
+msgctxt "Orchard.Recipes.Services.RecipeStepExecutor"
+msgid "Recipe execution with id {0} was cancelled because the \"{1}\" step failed to execute. The following exception was thrown: {2}. Refer to the recipe journal for more information."
+msgstr "已取消執行 ID 為 {0} 的方法，因為第 \"{1}\" 步未能執行。異常: {2}。請參考方法資料手冊獲得更多訊息。"
+
+#: Orchard.Recipes.Services.RecipeStepExecutor
+#| msgid "Recipe execution with id {0} was cancelled because the recipe handler for step \"{1}\" was not found. Refer to the recipe journal for more information."
+msgctxt "Orchard.Recipes.Services.RecipeStepExecutor"
+msgid "Recipe execution with id {0} was cancelled because the recipe handler for step \"{1}\" was not found. Refer to the recipe journal for more information."
+msgstr "已取消執行 ID 為 {0} 的方法，因為方法處理步驟 \"{1}\" 未被發現。請參考方法資料手冊獲得更多訊息。"
+
+#: Orchard.Recipes.Services.RecipeStepExecutor
+#| msgid "Recipe execution with id {0} was cancelled because the \"{1}\" step failed to execute. The following exception was thrown: {2}. Refer to the error logs for more information."
+msgctxt "Orchard.Recipes.Services.RecipeStepExecutor"
+msgid "Recipe execution with id {0} was cancelled because the \"{1}\" step failed to execute. The following exception was thrown: {2}. Refer to the error logs for more information."
+msgstr ""
+
+#: Orchard.Recipes.Services.RecipeStepExecutor
+#| msgid "Recipe execution with id {0} was cancelled because the recipe handler for step \"{1}\" was not found. Refer to the error logs for more information."
+msgctxt "Orchard.Recipes.Services.RecipeStepExecutor"
+msgid "Recipe execution with id {0} was cancelled because the recipe handler for step \"{1}\" was not found. Refer to the error logs for more information."
+msgstr ""
+

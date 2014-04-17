@@ -1,0 +1,59 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/ExternalBlogAggregation/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/ExternalBlogAggregation/Module.txt"
+msgid "External Blog Aggregation"
+msgstr ""
+
+#: ~/Modules/ExternalBlogAggregation/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/ExternalBlogAggregation/Module.txt"
+msgid "Bertrand Le Roy"
+msgstr ""
+
+#: ~/Modules/ExternalBlogAggregation/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/ExternalBlogAggregation/Module.txt"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/ExternalBlogAggregation/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/ExternalBlogAggregation/Module.txt"
+msgid "Manual aggregation of blog posts from external sources"
+msgstr ""
+
+#: ~/Modules/ExternalBlogAggregation/Module.txt
+#| msgid "ExternalBlogAggregation.Name"
+msgctxt "~/Modules/ExternalBlogAggregation/Module.txt"
+msgid "External Blog Aggregation"
+msgstr ""
+
+#: ~/Modules/ExternalBlogAggregation/Module.txt
+#| msgid "ExternalBlogAggregation.Description"
+msgctxt "~/Modules/ExternalBlogAggregation/Module.txt"
+msgid "Manual aggregation of blog posts from external sources"
+msgstr ""
+
+#: ~/Modules/ExternalBlogAggregation/Module.txt
+#| msgid "ExternalBlogAggregation.Category"
+msgctxt "~/Modules/ExternalBlogAggregation/Module.txt"
+msgid "Content"
+msgstr ""
+
+#: ~/Modules/ExternalBlogAggregation/Views/Parts.ExternalBlogPost.cshtml
+#| msgid "Posted by {0} on {1:MM/dd/yyyy} at {1:hh:mm tt}."
+msgctxt "~/Modules/ExternalBlogAggregation/Views/Parts.ExternalBlogPost.cshtml"
+msgid "Posted by {0} on {1:MM/dd/yyyy} at {1:hh:mm tt}."
+msgstr ""
+
+#: ~/Modules/ExternalBlogAggregation/Views/Parts.ExternalBlogPostActions.cshtml
+#| msgid "View"
+msgctxt "~/Modules/ExternalBlogAggregation/Views/Parts.ExternalBlogPostActions.cshtml"
+msgid "View"
+msgstr ""
+

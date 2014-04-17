@@ -1,0 +1,131 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtm
+#| msgid "Scheduled"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtm"
+msgid "Scheduled"
+msgstr ""
+
+#: ~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtm
+#| msgid "The page is scheduled for archiving"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtm"
+msgid "The page is scheduled for archiving"
+msgstr ""
+
+#: ~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtm
+#| msgid "Unpublish on"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtm"
+msgid "Unpublish on"
+msgstr ""
+
+#: ~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtm
+#| msgid "M/d/yyyy h:mm tt"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtm"
+msgid "M/d/yyyy h:mm tt"
+msgstr ""
+
+#: ~/Modules/Orchard.ArchiveLater/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgid "ArchiveLater"
+msgstr "ArchiveLater"
+
+#: ~/Modules/Orchard.ArchiveLater/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard 團隊"
+
+#: ~/Modules/Orchard.ArchiveLater/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.ArchiveLater/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgid "The ArchiveLater module introduces scheduled archiving functionality."
+msgstr "ArchiveLater 可以安排存檔功能。"
+
+#: ~/Modules/Orchard.ArchiveLater/Module.txt
+#| msgid "Orchard.ArchiveLater.Name"
+msgctxt "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgid "Archive Later"
+msgstr ""
+
+#: ~/Modules/Orchard.ArchiveLater/Module.txt
+#| msgid "Orchard.ArchiveLater.Description"
+msgctxt "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgid "Scheduled archiving."
+msgstr ""
+
+#: ~/Modules/Orchard.ArchiveLater/Module.txt
+#| msgid "Orchard.ArchiveLater.Category"
+msgctxt "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgid "Content"
+msgstr ""
+
+#: Orchard.ArchiveLater.Drivers.ArchiveLaterPartDriver
+#| msgid "{0} is an invalid date and time"
+msgctxt "Orchard.ArchiveLater.Drivers.ArchiveLaterPartDriver"
+msgid "{0} is an invalid date and time"
+msgstr "{0} 是無效的時間"
+
+#: Orchard.ArchiveLater.Services.ArchiveLaterService
+#| msgid "Couldn't archive selected content."
+msgctxt "Orchard.ArchiveLater.Services.ArchiveLaterService"
+msgid "Couldn't archive selected content."
+msgstr "無法儲存所選的內容。"
+
+#: ~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml
+#| msgid "Archive Settings"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml"
+msgid "Archive Settings"
+msgstr "存檔設定"
+
+#: ~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml
+#| msgid "Archive Later"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml"
+msgid "Archive Later"
+msgstr "Archive Later "
+
+#: ~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml
+#| msgid "Date"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml"
+msgid "Date"
+msgstr "日期"
+
+#: ~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml
+#| msgid "Time"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml"
+msgid "Time"
+msgstr "時間"
+
+#: ~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml
+#| msgid "Scheduled"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgid "Scheduled"
+msgstr "預定"
+
+#: ~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml
+#| msgid "The page is scheduled for archiving"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgid "The page is scheduled for archiving"
+msgstr "該網頁已預定被儲存"
+
+#: ~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml
+#| msgid "Unpublish on"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgid "Unpublish on"
+msgstr "取消發佈於"
+
+#: ~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml
+#| msgid "M/d/yyyy h:mm tt"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgid "M/d/yyyy h:mm tt"
+msgstr "yyyy/M/d h:mm tt"
+

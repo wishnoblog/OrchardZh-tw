@@ -1,0 +1,47 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Scripting.Dlr/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Scripting.Dlr/Module.txt"
+msgid "DLR Scripting"
+msgstr "DLR 腳本"
+
+#: ~/Modules/Orchard.Scripting.Dlr/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Scripting.Dlr/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard 團隊"
+
+#: ~/Modules/Orchard.Scripting.Dlr/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Scripting.Dlr/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.Scripting.Dlr/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Scripting.Dlr/Module.txt"
+msgid "The DLR scripting module enables the possibility to execute scripts using the DLR."
+msgstr "DLR 腳本模組可以讓執行腳本使用 DLR。"
+
+#: ~/Modules/Orchard.Scripting.Dlr/Module.txt
+#| msgid "Orchard.Scripting.Dlr.Name"
+msgctxt "~/Modules/Orchard.Scripting.Dlr/Module.txt"
+msgid "DLR Scripting"
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting.Dlr/Module.txt
+#| msgid "Orchard.Scripting.Dlr.Description"
+msgctxt "~/Modules/Orchard.Scripting.Dlr/Module.txt"
+msgid "DLR scripting support."
+msgstr ""
+
+#: ~/Modules/Orchard.Scripting.Dlr/Module.txt
+#| msgid "Orchard.Scripting.Dlr.Category"
+msgctxt "~/Modules/Orchard.Scripting.Dlr/Module.txt"
+msgid "Scripting"
+msgstr ""
+

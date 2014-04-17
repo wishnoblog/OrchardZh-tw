@@ -1,0 +1,653 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.MediaLibrary/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.MediaLibrary/Module.txt"
+msgid "Media Library"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.MediaLibrary/Module.txt"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.MediaLibrary/Module.txt"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.MediaLibrary/Module.txt"
+msgid "Provides enhanced Media management tools."
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Module.txt
+#| msgid "Orchard.MediaLibrary.Name"
+msgctxt "~/Modules/Orchard.MediaLibrary/Module.txt"
+msgid "Media Library"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Module.txt
+#| msgid "Orchard.MediaLibrary.Description"
+msgctxt "~/Modules/Orchard.MediaLibrary/Module.txt"
+msgid "Provides enhanced Media management tools."
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Module.txt
+#| msgid "Orchard.MediaLibrary.Category"
+msgctxt "~/Modules/Orchard.MediaLibrary/Module.txt"
+msgid "Media"
+msgstr ""
+
+#: Orchard.MediaLibrary.AdminMenu
+#| msgid "Media"
+msgctxt "Orchard.MediaLibrary.AdminMenu"
+msgid "Media"
+msgstr ""
+
+#: Orchard.MediaLibrary.Controllers.AdminController
+#| msgid "Cannot edit media"
+msgctxt "Orchard.MediaLibrary.Controllers.AdminController"
+msgid "Cannot edit media"
+msgstr ""
+
+#: Orchard.MediaLibrary.Controllers.AdminController
+#| msgid "Couldn't delete media items"
+msgctxt "Orchard.MediaLibrary.Controllers.AdminController"
+msgid "Couldn't delete media items"
+msgstr ""
+
+#: Orchard.MediaLibrary.Controllers.FolderController
+#| msgid "Couldn't create media folder"
+msgctxt "Orchard.MediaLibrary.Controllers.FolderController"
+msgid "Couldn't create media folder"
+msgstr ""
+
+#: Orchard.MediaLibrary.Controllers.FolderController
+#| msgid "Media folder created"
+msgctxt "Orchard.MediaLibrary.Controllers.FolderController"
+msgid "Media folder created"
+msgstr ""
+
+#: Orchard.MediaLibrary.Controllers.FolderController
+#| msgid "Creating Folder failed: {0}"
+msgctxt "Orchard.MediaLibrary.Controllers.FolderController"
+msgid "Creating Folder failed: {0}"
+msgstr ""
+
+#: Orchard.MediaLibrary.Controllers.FolderController
+#| msgid "Couldn't edit media folder"
+msgctxt "Orchard.MediaLibrary.Controllers.FolderController"
+msgid "Couldn't edit media folder"
+msgstr ""
+
+#: Orchard.MediaLibrary.Controllers.FolderController
+#| msgid "Media folder renamed"
+msgctxt "Orchard.MediaLibrary.Controllers.FolderController"
+msgid "Media folder renamed"
+msgstr ""
+
+#: Orchard.MediaLibrary.Controllers.FolderController
+#| msgid "Editing Folder failed: {0}"
+msgctxt "Orchard.MediaLibrary.Controllers.FolderController"
+msgid "Editing Folder failed: {0}"
+msgstr ""
+
+#: Orchard.MediaLibrary.Controllers.FolderController
+#| msgid "Couldn't delete media folder"
+msgctxt "Orchard.MediaLibrary.Controllers.FolderController"
+msgid "Couldn't delete media folder"
+msgstr ""
+
+#: Orchard.MediaLibrary.Controllers.FolderController
+#| msgid "Media folder deleted"
+msgctxt "Orchard.MediaLibrary.Controllers.FolderController"
+msgid "Media folder deleted"
+msgstr ""
+
+#: Orchard.MediaLibrary.Controllers.FolderController
+#| msgid "Deleting Folder failed: {0}"
+msgctxt "Orchard.MediaLibrary.Controllers.FolderController"
+msgid "Deleting Folder failed: {0}"
+msgstr ""
+
+#: Orchard.MediaLibrary.Controllers.FolderController
+#| msgid "Couldn't move media items"
+msgctxt "Orchard.MediaLibrary.Controllers.FolderController"
+msgid "Couldn't move media items"
+msgstr ""
+
+#: Orchard.MediaLibrary.Drivers.MediaLibraryPickerFieldDriver
+#| msgid "The field {0} is mandatory"
+msgctxt "Orchard.MediaLibrary.Drivers.MediaLibraryPickerFieldDriver"
+msgid "The field {0} is mandatory"
+msgstr ""
+
+#: Orchard.MediaLibrary.Drivers.MediaLibraryPickerFieldDriver
+#| msgid "Ids"
+msgctxt "Orchard.MediaLibrary.Drivers.MediaLibraryPickerFieldDriver"
+msgid "Ids"
+msgstr ""
+
+#: Orchard.MediaLibrary.Drivers.MediaLibraryPickerFieldDriver
+#| msgid "A formatted list of the ids, e.g., {1},{42}"
+msgctxt "Orchard.MediaLibrary.Drivers.MediaLibraryPickerFieldDriver"
+msgid "A formatted list of the ids, e.g., {1},{42}"
+msgstr ""
+
+#: Orchard.MediaLibrary.Handlers.WebSearchSettingsPartHandler
+#| msgid "Media"
+msgctxt "Orchard.MediaLibrary.Handlers.WebSearchSettingsPartHandler"
+msgid "Media"
+msgstr ""
+
+#: Orchard.MediaLibrary.Providers.ClientStorageMenu
+#| msgid "My Computer"
+msgctxt "Orchard.MediaLibrary.Providers.ClientStorageMenu"
+msgid "My Computer"
+msgstr ""
+
+#: Orchard.MediaLibrary.Providers.OEmbedMenu
+#| msgid "Media Url"
+msgctxt "Orchard.MediaLibrary.Providers.OEmbedMenu"
+msgid "Media Url"
+msgstr ""
+
+#: Orchard.MediaLibrary.Providers.WebSearchMenu
+#| msgid "Web Search"
+msgctxt "Orchard.MediaLibrary.Providers.WebSearchMenu"
+msgid "Web Search"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Import.cshtml
+#| msgid "Media Library"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Import.cshtml"
+msgid "Media Library"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Import.cshtml
+#| msgid "Close"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Import.cshtml"
+msgid "Close"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Import.cshtml
+#| msgid "Media Folders"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Import.cshtml"
+msgid "Media Folders"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "Media Library"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "Media Library"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "Import"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "Import"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "Edit Folder"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "Edit Folder"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "Create Folder"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "Create Folder"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "Show"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "Show"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "Any (show all)"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "Any (show all)"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "Ordered by"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "Ordered by"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "title"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "title"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "recently created"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "recently created"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "recently published"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "recently published"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "recently modified"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "recently modified"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "Recent"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "Recent"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "PROPERTIES"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "PROPERTIES"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "SELECTION"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "SELECTION"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "Select"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "Select"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "Cancel"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "Cancel"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml
+#| msgid "Are you sure you want to delete these media items ?"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Admin/Index.cshtml"
+msgid "Are you sure you want to delete these media items ?"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/ClientStorage/Index.cshtml
+#| msgid "Click here, Drop files or Paste images"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/ClientStorage/Index.cshtml"
+msgid "Click here, Drop files or Paste images"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/ClientStorage/Index.cshtml
+#| msgid "Loading thumbnail..."
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/ClientStorage/Index.cshtml"
+msgid "Loading thumbnail..."
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml
+#| msgid "A content item is required"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml"
+msgid "A content item is required"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml
+#| msgid "Check to ensure the user is providing at least one media item."
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml"
+msgid "Check to ensure the user is providing at least one media item."
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml
+#| msgid "Allow multiple content items"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml"
+msgid "Allow multiple content items"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml
+#| msgid "Check to allow the user to select multiple media items."
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml"
+msgid "Check to allow the user to select multiple media items."
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml
+#| msgid "Help text"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml"
+msgid "Help text"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml
+#| msgid "The help text is written under the field when authors are selecting media items."
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml"
+msgid "The help text is written under the field when authors are selecting media items."
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml
+#| msgid "Content Types and Parts"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml"
+msgid "Content Types and Parts"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml
+#| msgid "A comma separated value of all the content types or content parts to display."
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/DefinitionTemplates/MediaLibraryPickerFieldSettings.cshtml"
+msgid "A comma separated value of all the content types or content parts to display."
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Parts.Media.Edit.cshtml
+#| msgid "Caption"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Parts.Media.Edit.cshtml"
+msgid "Caption"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Parts.Media.Edit.cshtml
+#| msgid "The caption describes the image in a general context."
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Parts.Media.Edit.cshtml"
+msgid "The caption describes the image in a general context."
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Parts.Media.Edit.cshtml
+#| msgid "Alternate Text"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Parts.Media.Edit.cshtml"
+msgid "Alternate Text"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Parts.Media.Edit.cshtml
+#| msgid "The alternate text is used when the media can't be rendered in a browser."
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Parts.Media.Edit.cshtml"
+msgid "The alternate text is used when the media can't be rendered in a browser."
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Fields/MediaLibraryPicker.Edit.cshtml
+#| msgid "You need to save your changes."
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Fields/MediaLibraryPicker.Edit.cshtml"
+msgid "You need to save your changes."
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Fields/MediaLibraryPicker.Edit.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Fields/MediaLibraryPicker.Edit.cshtml"
+msgid "Remove"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Fields/MediaLibraryPicker.Edit.cshtml
+#| msgid "Add"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Fields/MediaLibraryPicker.Edit.cshtml"
+msgid "Add"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Parts/WebSearch.WebSearchSettings.cshtml
+#| msgid "Web Search"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Parts/WebSearch.WebSearchSettings.cshtml"
+msgid "Web Search"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Parts/WebSearch.WebSearchSettings.cshtml
+#| msgid "Your private key."
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Parts/WebSearch.WebSearchSettings.cshtml"
+msgid "Your private key."
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Parts/WebSearch.WebSearchSettings.cshtml
+#| msgid "Get a free API Key on {0}"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/EditorTemplates/Parts/WebSearch.WebSearchSettings.cshtml"
+msgid "Get a free API Key on {0}"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Fields/MediaLibraryPicker.SummaryAdmin.cshtml
+#| msgid "No media items."
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Fields/MediaLibraryPicker.SummaryAdmin.cshtml"
+msgid "No media items."
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Folder/Create.cshtml
+#| msgid "Add a Folder"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Folder/Create.cshtml"
+msgid "Add a Folder"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Folder/Create.cshtml
+#| msgid "Media Library"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Folder/Create.cshtml"
+msgid "Media Library"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Folder/Create.cshtml
+#| msgid "Folder Name"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Folder/Create.cshtml"
+msgid "Folder Name"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Folder/Create.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Folder/Create.cshtml"
+msgid "Save"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Folder/Create.cshtml
+#| msgid "Cancel"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Folder/Create.cshtml"
+msgid "Cancel"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Folder/Edit.cshtml
+#| msgid "Edit a Folder"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Folder/Edit.cshtml"
+msgid "Edit a Folder"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Folder/Edit.cshtml
+#| msgid "Media Library"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Folder/Edit.cshtml"
+msgid "Media Library"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Folder/Edit.cshtml
+#| msgid "Folder Name"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Folder/Edit.cshtml"
+msgid "Folder Name"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Folder/Edit.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Folder/Edit.cshtml"
+msgid "Save"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Folder/Edit.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Folder/Edit.cshtml"
+msgid "Delete"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Folder/Edit.cshtml
+#| msgid "Cancel"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Folder/Edit.cshtml"
+msgid "Cancel"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/OEmbed/Index.cshtml
+#| msgid "media url"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/OEmbed/Index.cshtml"
+msgid "media url"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Audio.Metadata.cshtml
+#| msgid "Length:"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Audio.Metadata.cshtml"
+msgid "Length:"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Audio.Metadata.cshtml
+#| msgid "{0}:{1}"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Audio.Metadata.cshtml"
+msgid "{0}:{1}"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Document.cshtml
+#| msgid "Download"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Document.cshtml"
+msgid "Download"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Document.Metadata.cshtml
+#| msgid "Size:"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Document.Metadata.cshtml"
+msgid "Size:"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Document.Metadata.cshtml
+#| msgid "{0} (KB)"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Document.Metadata.cshtml"
+msgid "{0} (KB)"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Document.Summary.cshtml
+#| msgid "Download"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Document.Summary.cshtml"
+msgid "Download"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Document.SummaryAdmin.cshtml
+#| msgid "Download"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Document.SummaryAdmin.cshtml"
+msgid "Download"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Image.Metadata.cshtml
+#| msgid "Dimensions:"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Image.Metadata.cshtml"
+msgid "Dimensions:"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Media.Actions.cshtml
+#| msgid "Edit"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Media.Actions.cshtml"
+msgid "Edit"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Media.SummaryAdmin.cshtml
+#| msgid "Title:"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Media.SummaryAdmin.cshtml"
+msgid "Title:"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Media.SummaryAdmin.cshtml
+#| msgid "Filename:"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Media.SummaryAdmin.cshtml"
+msgid "Filename:"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Media.SummaryAdmin.cshtml
+#| msgid "Mime Type:"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Media.SummaryAdmin.cshtml"
+msgid "Mime Type:"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Media.SummaryAdmin.cshtml
+#| msgid "Caption:"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Media.SummaryAdmin.cshtml"
+msgid "Caption:"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Media.SummaryAdmin.cshtml
+#| msgid "Alternate Text:"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Media.SummaryAdmin.cshtml"
+msgid "Alternate Text:"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/OEmbed.Metadata.cshtml
+#| msgid "Source:"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/OEmbed.Metadata.cshtml"
+msgid "Source:"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/OEmbed.SummaryAdmin.cshtml
+#| msgid "Preview"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/OEmbed.SummaryAdmin.cshtml"
+msgid "Preview"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Video.Metadata.cshtml
+#| msgid "Length:"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Video.Metadata.cshtml"
+msgid "Length:"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/Parts/Video.Metadata.cshtml
+#| msgid "{0}:{1}"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/Parts/Video.Metadata.cshtml"
+msgid "{0}:{1}"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml
+#| msgid "You need to define an API Key in the Media settings before being able to use this feature."
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml"
+msgid "You need to define an API Key in the Media settings before being able to use this feature."
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml
+#| msgid "search"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml"
+msgid "search"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml
+#| msgid "PROPERTIES"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml"
+msgid "PROPERTIES"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml
+#| msgid "Dimensions:"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml"
+msgid "Dimensions:"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml
+#| msgid "Filename:"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml"
+msgid "Filename:"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml
+#| msgid "Size:"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml"
+msgid "Size:"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml
+#| msgid "Page"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml"
+msgid "Page"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml
+#| msgid "Open"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml"
+msgid "Open"
+msgstr ""
+
+#: ~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml
+#| msgid "SELECTION"
+msgctxt "~/Modules/Orchard.MediaLibrary/Views/WebSearch/Index.cshtml"
+msgid "SELECTION"
+msgstr ""
+

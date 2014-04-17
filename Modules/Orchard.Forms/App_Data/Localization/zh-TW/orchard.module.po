@@ -1,0 +1,47 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Forms/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "Forms"
+msgstr ""
+
+#: ~/Modules/Orchard.Forms/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Forms/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "http://orchardforms.codeplex.com"
+msgstr ""
+
+#: ~/Modules/Orchard.Forms/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "Provides a system to publish and alter html forms."
+msgstr ""
+
+#: ~/Modules/Orchard.Forms/Module.txt
+#| msgid "Orchard.Forms.Name"
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "Forms"
+msgstr ""
+
+#: ~/Modules/Orchard.Forms/Module.txt
+#| msgid "Orchard.Forms.Description"
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "Provides a system to publish and alter html forms."
+msgstr ""
+
+#: ~/Modules/Orchard.Forms/Module.txt
+#| msgid "Orchard.Forms.Category"
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "Developer"
+msgstr ""
+

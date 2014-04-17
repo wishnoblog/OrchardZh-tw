@@ -1,0 +1,131 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "Questions & Answers"
+msgstr ""
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "The Orchard Hungary Team"
+msgstr ""
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "http://orchardqna.codeplex.com/"
+msgstr ""
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "A lightweight discussions module with discussion pools and organizing through tags."
+msgstr ""
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "OrchardHUN.QnA.Name"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "Questions & Answers"
+msgstr ""
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "OrchardHUN.QnA.Description"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "A lightweight discussions module with discussion pools"
+msgstr ""
+
+#: ~/Modules/OrchardHUN.QnA/Module.txt
+#| msgid "OrchardHUN.QnA.Category"
+msgctxt "~/Modules/OrchardHUN.QnA/Module.txt"
+msgid "Community"
+msgstr ""
+
+#: OrchardHUN.QnA.Migrations
+#| msgid "Questions & Answers"
+msgctxt "OrchardHUN.QnA.Migrations"
+msgid "Questions & Answers"
+msgstr ""
+
+#: OrchardHUN.QnA.Migrations
+#| msgid "QnA Discussion Pool"
+msgctxt "OrchardHUN.QnA.Migrations"
+msgid "QnA Discussion Pool"
+msgstr ""
+
+#: OrchardHUN.QnA.Migrations
+#| msgid "Categories"
+msgctxt "OrchardHUN.QnA.Migrations"
+msgid "Categories"
+msgstr ""
+
+#: OrchardHUN.QnA.Migrations
+#| msgid "QnA Discussion"
+msgctxt "OrchardHUN.QnA.Migrations"
+msgid "QnA Discussion"
+msgstr ""
+
+#: .Routes
+#| msgid "NewDiscussion"
+msgctxt ".Routes"
+msgid "NewDiscussion"
+msgstr ""
+
+#: OrchardHUN.QnA.Controllers.QnADiscussionsController
+#| msgid "You haven't selected any categories."
+msgctxt "OrchardHUN.QnA.Controllers.QnADiscussionsController"
+msgid "You haven't selected any categories."
+msgstr ""
+
+#: OrchardHUN.QnA.Controllers.QnADiscussionsController
+#| msgid "Please log in to create a new discussion"
+msgctxt "OrchardHUN.QnA.Controllers.QnADiscussionsController"
+msgid "Please log in to create a new discussion"
+msgstr ""
+
+#: ~/Modules/OrchardHUN.QnA/Views/NewDiscussion.cshtml
+#| msgid "Start new discussion"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/NewDiscussion.cshtml"
+msgid "Start new discussion"
+msgstr ""
+
+#: ~/Modules/OrchardHUN.QnA/Views/NewDiscussion.cshtml
+#| msgid "The discussion could not be started. Please correct the errrors below."
+msgctxt "~/Modules/OrchardHUN.QnA/Views/NewDiscussion.cshtml"
+msgid "The discussion could not be started. Please correct the errrors below."
+msgstr ""
+
+#: ~/Modules/OrchardHUN.QnA/Views/NewDiscussionTitlePart.cshtml
+#| msgid "Title"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/NewDiscussionTitlePart.cshtml"
+msgid "Title"
+msgstr ""
+
+#: ~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml
+#| msgid "edit"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml"
+msgid "edit"
+msgstr ""
+
+#: ~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml
+#| msgid "remove"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml"
+msgid "remove"
+msgstr ""
+
+#: ~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml
+#| msgid "Are you sure you want to remove this element?"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/Parts/DiscussionAdministrationLink.cshtml"
+msgid "Are you sure you want to remove this element?"
+msgstr ""
+
+#: ~/Modules/OrchardHUN.QnA/Views/Parts/NewDiscussionLink.cshtml
+#| msgid "Start new discussion"
+msgctxt "~/Modules/OrchardHUN.QnA/Views/Parts/NewDiscussionLink.cshtml"
+msgid "Start new discussion"
+msgstr ""
+

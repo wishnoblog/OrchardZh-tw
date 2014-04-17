@@ -1,0 +1,125 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.jQuery/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard 團隊"
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.jQuery/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.jQuery/Module.txt"
+msgid "The jQuery module contains the jQuery and related script libraries."
+msgstr "jQuery 模組包含 jQuery 與其相關的 JavaScript 函式庫"
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Orchard.jQuery.Name"
+msgctxt "~/Modules/Orchard.jQuery/Module.txt"
+msgid "jQuery"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Orchard.jQuery.Description"
+msgctxt "~/Modules/Orchard.jQuery/Module.txt"
+msgid "A common location for jQuery and related script libraries."
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Orchard.jQuery.Category"
+msgctxt "~/Modules/Orchard.jQuery/Module.txt"
+msgid "Core"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml
+#| msgid "Done"
+msgctxt "~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml"
+msgid "Done"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml
+#| msgid "Prev"
+msgctxt "~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml"
+msgid "Prev"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml
+#| msgid "Next"
+msgctxt "~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml"
+msgid "Next"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml
+#| msgid "Today"
+msgctxt "~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml"
+msgid "Today"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml
+#| msgid "Wk"
+msgctxt "~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml"
+msgid "Wk"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Orchard.jQuery Description"
+msgctxt "~/Modules/Orchard.jQuery/Module.txt"
+msgid "A common location for jQuery and related script libraries."
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Orchard.jQuery Category"
+msgctxt "~/Modules/Orchard.jQuery/Module.txt"
+msgid "Resources"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+#| msgid "Choose time"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgid "Choose time"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+#| msgid "Time"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgid "Time"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+#| msgid "Hour"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgid "Hour"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+#| msgid "Minute"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgid "Minute"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+#| msgid "Now"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgid "Now"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+#| msgid "Done"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgid "Done"
+msgstr ""
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.jQuery/Module.txt"
+msgid "Orchard.jQuery"
+msgstr "Orchard.jQuery"
+

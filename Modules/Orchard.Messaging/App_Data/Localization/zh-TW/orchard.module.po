@@ -1,0 +1,65 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Messaging/Module.txt"
+msgid "Messaging"
+msgstr "短訊"
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Messaging/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard 團隊"
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Messaging/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Messaging/Module.txt"
+msgid "The Messaging module adds messaging functionalities."
+msgstr "短訊模組提供短訊功能。"
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Orchard.Messaging.Name"
+msgctxt "~/Modules/Orchard.Messaging/Module.txt"
+msgid "Messaging"
+msgstr ""
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Orchard.Messaging.Description"
+msgctxt "~/Modules/Orchard.Messaging/Module.txt"
+msgid "Messaging services."
+msgstr ""
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Orchard.Messaging.Category"
+msgctxt "~/Modules/Orchard.Messaging/Module.txt"
+msgid "Messaging"
+msgstr ""
+
+#: ~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml
+#| msgid "Messaging"
+msgctxt "~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml"
+msgid "Messaging"
+msgstr "短訊"
+
+#: ~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml
+#| msgid "Default channel service for messages"
+msgctxt "~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml"
+msgid "Default channel service for messages"
+msgstr "預設的短訊伺服器頻道"
+
+#: ~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml
+#| msgid "You must enable a messaging channel (e.g., Orchard.Email) before being able to send messages."
+msgctxt "~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml"
+msgid "You must enable a messaging channel (e.g., Orchard.Email) before being able to send messages."
+msgstr "您必須啟用短訊頻道 (例: Orchard.Email) 才能發送短訊。"
+

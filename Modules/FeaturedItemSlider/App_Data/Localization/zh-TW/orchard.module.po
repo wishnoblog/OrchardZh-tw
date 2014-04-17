@@ -1,0 +1,377 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/FeaturedItemSlider/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/FeaturedItemSlider/Module.txt"
+msgid "Featured Item Slider"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/FeaturedItemSlider/Module.txt"
+msgid "NimblePros"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/FeaturedItemSlider/Module.txt"
+msgid "http://bitbucket.org/nimblepros/orchard-featureditemslider"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/FeaturedItemSlider/Module.txt"
+msgid "Adds a new content type called FeaturedItem, which includes an image and a headline, and optionally a sub-headline and link URL. Also includes a FeaturedItemsWidget for displaying the featured items using a jQuery slider. This module depends on the Contrib.MediaPickerField module."
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Module.txt
+#| msgid "FeaturedItemSlider.Description"
+msgctxt "~/Modules/FeaturedItemSlider/Module.txt"
+msgid "Adds a new content type called FeaturedItem, which includes an image and a headline, and optionally a sub-headline and link URL. Also includes a FeaturedItemsWidget for displaying the featured items using the jQuery Cycle plugin."
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Module.txt
+#| msgid "FeaturedItemSlider.Category"
+msgctxt "~/Modules/FeaturedItemSlider/Module.txt"
+msgid "Widget"
+msgstr ""
+
+#: FeaturedItemSlider.AdminMenu
+#| msgid "Featured Items"
+msgctxt "FeaturedItemSlider.AdminMenu"
+msgid "Featured Items"
+msgstr ""
+
+#: FeaturedItemSlider.AdminMenu
+#| msgid "New Feature Group"
+msgctxt "FeaturedItemSlider.AdminMenu"
+msgid "New Feature Group"
+msgstr ""
+
+#: FeaturedItemSlider.AdminMenu
+#| msgid "Manage Feature Groups"
+msgctxt "FeaturedItemSlider.AdminMenu"
+msgid "Manage Feature Groups"
+msgstr ""
+
+#: FeaturedItemSlider.AdminMenu
+#| msgid "New Feature"
+msgctxt "FeaturedItemSlider.AdminMenu"
+msgid "New Feature"
+msgstr ""
+
+#: FeaturedItemSlider.AdminMenu
+#| msgid "Manage Features"
+msgctxt "FeaturedItemSlider.AdminMenu"
+msgid "Manage Features"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/Admin/Groups.cshtml
+#| msgid "You have not yet created any Groups. Create a"
+msgctxt "~/Modules/FeaturedItemSlider/Views/Admin/Groups.cshtml"
+msgid "You have not yet created any Groups. Create a"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/Admin/Groups.cshtml
+#| msgid "new group"
+msgctxt "~/Modules/FeaturedItemSlider/Views/Admin/Groups.cshtml"
+msgid "new group"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/Admin/Groups.cshtml
+#| msgid "now."
+msgctxt "~/Modules/FeaturedItemSlider/Views/Admin/Groups.cshtml"
+msgid "now."
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/Admin/Items.cshtml
+#| msgid "Featured Items"
+msgctxt "~/Modules/FeaturedItemSlider/Views/Admin/Items.cshtml"
+msgid "Featured Items"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/Admin/Items.cshtml
+#| msgid "You have not yet created any featured items. Create a"
+msgctxt "~/Modules/FeaturedItemSlider/Views/Admin/Items.cshtml"
+msgid "You have not yet created any featured items. Create a"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/Admin/Items.cshtml
+#| msgid "new featured item"
+msgctxt "~/Modules/FeaturedItemSlider/Views/Admin/Items.cshtml"
+msgid "new featured item"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/Admin/Items.cshtml
+#| msgid "now."
+msgctxt "~/Modules/FeaturedItemSlider/Views/Admin/Items.cshtml"
+msgid "now."
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItem.Edit.cshtml
+#| msgid "Can be an absolute or relative url. The Headline and Image (if any) will be linked, unless the 'Separate Link' option is checked below."
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItem.Edit.cshtml"
+msgid "Can be an absolute or relative url. The Headline and Image (if any) will be linked, unless the 'Separate Link' option is checked below."
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItem.Edit.cshtml
+#| msgid "Separate Link"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItem.Edit.cshtml"
+msgid "Separate Link"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItem.Edit.cshtml
+#| msgid "Use the Slide Order to control the order in which the slides are loaded into the widget."
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItem.Edit.cshtml"
+msgid "Use the Slide Order to control the order in which the slides are loaded into the widget."
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItem.Edit.cshtml
+#| msgid "For the group"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItem.Edit.cshtml"
+msgid "For the group"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItem.Edit.cshtml
+#| msgid "the picture should be"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItem.Edit.cshtml"
+msgid "the picture should be"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "A Feature Group is a collection of Feature Items that may be placed in any zone of your site. The settings of your feature group define the width and height of each feature item. You may add as many feature items to a group. Only one feature item will display at a time and a new feature will slide into place every few seconds."
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "A Feature Group is a collection of Feature Items that may be placed in any zone of your site. The settings of your feature group define the width and height of each feature item. You may add as many feature items to a group. Only one feature item will display at a time and a new feature will slide into place every few seconds."
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Display Properties"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Display Properties"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Name"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Group Width"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Group Width"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "This is the overall width of one slide in the widget"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "This is the overall width of one slide in the widget"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Group Height"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Group Height"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "This is the overall height of one slide in the widget"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "This is the overall height of one slide in the widget"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Include images in the slider"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Include images in the slider"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Example of a slider using Inline images"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Example of a slider using Inline images"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Example"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Example"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Example of a slider using Background images"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Example of a slider using Background images"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Image Width"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Image Width"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "This is the width for the image portion of a slide (should not be greater than the Group Width)"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "This is the width for the image portion of a slide (should not be greater than the Group Width)"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Image Height"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Image Height"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "This is the height for the image portion of a slide (should not be greater than the Group Height)"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "This is the height for the image portion of a slide (should not be greater than the Group Height)"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Text Offset - Top"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Text Offset - Top"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "This is the number of pixels of padding the text area (headline/subheadline) will have from the Top of the slide"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "This is the number of pixels of padding the text area (headline/subheadline) will have from the Top of the slide"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Text Offset - Left"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Text Offset - Left"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "This is the number of pixels of padding the text area (headline/subheadline) will have from the Left side of the slide"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "This is the number of pixels of padding the text area (headline/subheadline) will have from the Left side of the slide"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Text Area Background Color"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Text Area Background Color"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Enter a hex code or use the color picker. Leave empty for a transparent background."
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Enter a hex code or use the color picker. Leave empty for a transparent background."
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Text Foreground Color"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Text Foreground Color"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Enter a hex code or use the color picker."
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Enter a hex code or use the color picker."
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Slide Behavior"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Slide Behavior"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Transition Effect"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Transition Effect"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "The effects are provided by the jQuery Cycle plugin. The available effects can be seen at"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "The effects are provided by the jQuery Cycle plugin. The available effects can be seen at"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Slide Speed"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Slide Speed"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "This is the number of milliseconds it will take for one slide to transition to the next"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "This is the number of milliseconds it will take for one slide to transition to the next"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Slide Pause"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Slide Pause"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "This is the number of milliseconds a slide will be diplayed"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "This is the number of milliseconds a slide will be diplayed"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Show pager"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Show pager"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "This option will display pager controls superimposed over the text area of the slides"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "This option will display pager controls superimposed over the text area of the slides"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "Show slide numbers"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "Show slide numbers"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "This determines if the slide number and total slides are displayed on each slide (e.g. 1 of 5)"
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "This determines if the slide number and total slides are displayed on each slide (e.g. 1 of 5)"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml
+#| msgid "<strong>Note:</strong> This will result in a 25px gap from the top of the slide to the starting position of the text area. Adjust the Text Offset - Top setting accordingly."
+msgctxt "~/Modules/FeaturedItemSlider/Views/EditorTemplates/Parts.FeaturedItemGroup.Edit.cshtml"
+msgid "<strong>Note:</strong> This will result in a 25px gap from the top of the slide to the starting position of the text area. Adjust the Text Offset - Top setting accordingly."
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/Parts/FeaturedItem.SummaryAdmin.cshtml
+#| msgid "Group"
+msgctxt "~/Modules/FeaturedItemSlider/Views/Parts/FeaturedItem.SummaryAdmin.cshtml"
+msgid "Group"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/Parts/FeaturedItem.SummaryAdmin.cshtml
+#| msgid "Slide Order"
+msgctxt "~/Modules/FeaturedItemSlider/Views/Parts/FeaturedItem.SummaryAdmin.cshtml"
+msgid "Slide Order"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/Parts/FeaturedItemGroup.SummaryAdmin.cshtml
+#| msgid "Item"
+msgctxt "~/Modules/FeaturedItemSlider/Views/Parts/FeaturedItemGroup.SummaryAdmin.cshtml"
+msgid "Item"
+msgstr ""
+
+#: ~/Modules/FeaturedItemSlider/Views/Parts/FeaturedItemGroup.SummaryAdmin.cshtml
+#| msgid "Items"
+msgctxt "~/Modules/FeaturedItemSlider/Views/Parts/FeaturedItemGroup.SummaryAdmin.cshtml"
+msgid "Items"
+msgstr ""
+

@@ -1,0 +1,41 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Bing.Maps/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Bing.Maps/Module.txt"
+msgid "Bing.Maps"
+msgstr ""
+
+#: ~/Modules/Bing.Maps/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Bing.Maps/Module.txt"
+msgid "Bertrand Le Roy"
+msgstr ""
+
+#: ~/Modules/Bing.Maps/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Bing.Maps/Module.txt"
+msgid "http://weblogs.asp.net/bleroy"
+msgstr ""
+
+#: ~/Modules/Bing.Maps/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Bing.Maps/Module.txt"
+msgid "Bing Maps part and widget"
+msgstr ""
+
+#: ~/Modules/Bing.Maps/Module.txt
+#| msgid "Bing.Maps.Description"
+msgctxt "~/Modules/Bing.Maps/Module.txt"
+msgid "Bing Maps part and widget"
+msgstr ""
+
+#: ~/Modules/Bing.Maps/Module.txt
+#| msgid "Bing.Maps.Category"
+msgctxt "~/Modules/Bing.Maps/Module.txt"
+msgid "GeoLocation"
+msgstr ""
+

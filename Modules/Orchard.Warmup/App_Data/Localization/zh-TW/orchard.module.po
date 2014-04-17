@@ -1,0 +1,257 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: Orchard.Warmup.Commands.WarmupCommands
+#| msgid "Generation finished"
+msgctxt "Orchard.Warmup.Commands.WarmupCommands"
+msgid "Generation finished"
+msgstr ""
+
+#: ~/Modules/Orchard.Warmup/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Warmup/Module.txt"
+msgid "Warmup"
+msgstr "預熱"
+
+#: ~/Modules/Orchard.Warmup/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Warmup/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard 團隊"
+
+#: ~/Modules/Orchard.Warmup/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Warmup/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.Warmup/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Warmup/Module.txt"
+msgid "Provides a mecanism to generate a static version of pages for being used during application warm up."
+msgstr "提供在產生靜態頁面的過程中使用預熱機制。"
+
+#: Orchard.Warmup.AdminMenu
+#| msgid "Settings"
+msgctxt "Orchard.Warmup.AdminMenu"
+msgid "Settings"
+msgstr "設定"
+
+#: Orchard.Warmup.AdminMenu
+#| msgid "Warmup"
+msgctxt "Orchard.Warmup.AdminMenu"
+msgid "Warmup"
+msgstr "預熱"
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "Not authorized to manage settings"
+msgctxt "Orchard.Warmup.Controllers.AdminController"
+msgid "Not authorized to manage settings"
+msgstr "未被授權管理設定"
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "{0} is an invalid warmup url."
+msgctxt "Orchard.Warmup.Controllers.AdminController"
+msgid "{0} is an invalid warmup url."
+msgstr "{0} 是無效的預熱網址。"
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "Delay must be greater than zero."
+msgctxt "Orchard.Warmup.Controllers.AdminController"
+msgid "Delay must be greater than zero."
+msgstr "延遲時間必須大於零。"
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "Warmup updated successfully."
+msgctxt "Orchard.Warmup.Controllers.AdminController"
+msgid "Warmup updated successfully."
+msgstr "預熱更新成功。"
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "Static pages are currently being generated."
+msgctxt "Orchard.Warmup.Controllers.AdminController"
+msgid "Static pages are currently being generated."
+msgstr "靜態頁面目前正在產生。"
+
+#: Orchard.Warmup.Services.SettingsBanner:
+#| msgid "The Warmup feature needs the <a href=\"{0}\">Base Url site setting</a> to be set."
+msgctxt "Orchard.Warmup.Services.SettingsBanner:"
+msgid "The Warmup feature needs the <a href=\"{0}\">Base Url site setting</a> to be set."
+msgstr "需要預熱功能的 <a href=\"{0}\">基礎網址站點設定</a> 進行設定。"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Settings"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Settings"
+msgstr "設定"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Warmup"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Warmup"
+msgstr "預熱"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Urls for which static warmup pages will be generated"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Urls for which static warmup pages will be generated"
+msgstr "Url 當中的靜態頁面均會被預熱"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "This must be a set of relative paths, e.g., /, /About"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "This must be a set of relative paths, e.g., /, /About"
+msgstr "必須是相對路徑，如: /, /About"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Generate warmup pages periodically"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Generate warmup pages periodically"
+msgstr "定期產生預熱頁"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Every"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Every"
+msgstr "每個"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "minutes"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "minutes"
+msgstr "分鐘"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Generate warmup pages each time some content is published"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Generate warmup pages each time some content is published"
+msgstr "每個已發佈的內容都產生預熱頁"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Save"
+msgstr "儲存"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Save and generate"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Save and generate"
+msgstr "儲存並產生"
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "Warmup"
+msgctxt "~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml"
+msgid "Warmup"
+msgstr "預熱"
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "Urls for which static warm up pages will be generated"
+msgctxt "~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml"
+msgid "Urls for which static warm up pages will be generated"
+msgstr "Url 當中的靜態頁面均會預熱"
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "This must be a set of virtual paths, e.g., ~/, ~/About"
+msgctxt "~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml"
+msgid "This must be a set of virtual paths, e.g., ~/, ~/About"
+msgstr "必須是完整的虛擬路徑，如: ~/, ~/About"
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "Generate warmup pages periodically"
+msgctxt "~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml"
+msgid "Generate warmup pages periodically"
+msgstr "定期產生預熱頁"
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "Delay to generate pages"
+msgctxt "~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml"
+msgid "Delay to generate pages"
+msgstr "延遲產生頁面"
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "minutes"
+msgctxt "~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml"
+msgid "minutes"
+msgstr "分鐘"
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "Generate warmup pages each time some content is published"
+msgctxt "~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml"
+msgid "Generate warmup pages each time some content is published"
+msgstr "每次有主題被發佈時產生預熱頁"
+
+#: Orchard.Warmup.AdminMenu
+#| msgid "Performance"
+msgctxt "Orchard.Warmup.AdminMenu"
+msgid "Performance"
+msgstr "效能"
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "\"{0}\" is an invalid warmup url."
+msgctxt "Orchard.Warmup.Controllers.AdminController"
+msgid "\"{0}\" is an invalid warmup url."
+msgstr "\"{0}\" 是無效的網址。"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Performance"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Performance"
+msgstr "效能"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "The paths below will be requested using {0} as a base url. You can change the base url on the {1}. "
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "The paths below will be requested using {0} as a base url. You can change the base url on the {1}. "
+msgstr "下面的路徑將被要求使用 {0} 為基本網址。您可以在 {1} 變更基本網址。"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "General Settings page"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "General Settings page"
+msgstr "一般設定頁"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "This must be a set of relative paths, e.g., /, /About. Please ensure that you enter only one path per line."
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "This must be a set of relative paths, e.g., /, /About. Please ensure that you enter only one path per line."
+msgstr "這必須是一組相對路徑，例如: /，/about。請確定您輸入每一行只有一個路徑。"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Generate warmup pages any time some content is published"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Generate warmup pages any time some content is published"
+msgstr "在任何時間發佈內容時都產生預熱頁"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Status"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Status"
+msgstr "狀態"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "This is a table of the reports in your application"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "This is a table of the reports in your application"
+msgstr "在您的應用中這張表格供報表使用"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Path"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Path"
+msgstr "路徑"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Date generated"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Date generated"
+msgstr "產生日期"
+
+#: Orchard.Warmup.Services.SettingsBanner
+#| msgid "The Warmup feature needs the <a href=\"{0}\">Base Url site setting</a> to be set."
+msgctxt "Orchard.Warmup.Services.SettingsBanner"
+msgid "The Warmup feature needs the <a href=\"{0}\">Base Url site setting</a> to be set."
+msgstr ""
+

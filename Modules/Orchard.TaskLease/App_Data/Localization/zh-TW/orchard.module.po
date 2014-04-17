@@ -1,0 +1,29 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.TaskLease/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.TaskLease/Module.txt"
+msgid "Task Lease"
+msgstr ""
+
+#: ~/Modules/Orchard.TaskLease/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.TaskLease/Module.txt"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.TaskLease/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.TaskLease/Module.txt"
+msgid "http://orchardtasklease.codeplex.com"
+msgstr ""
+
+#: ~/Modules/Orchard.TaskLease/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.TaskLease/Module.txt"
+msgid "Provides services to synchronize tasks in a farm environment"
+msgstr ""
+

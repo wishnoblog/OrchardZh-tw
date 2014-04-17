@@ -1,0 +1,335 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Tags/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Tags/Module.txt"
+msgid "Tags"
+msgstr "標籤"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Tags"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Index.cshtml"
+msgid "Tags"
+msgstr "標籤"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr "刪除"
+
+#: Orchard.Tags.Projections.TagsFilterForms
+#| msgid "Is one of"
+msgctxt "Orchard.Tags.Projections.TagsFilterForms"
+msgid "Is one of"
+msgstr ""
+
+#: Orchard.Tags.Projections.TagsFilterForms
+#| msgid "Is all of"
+msgctxt "Orchard.Tags.Projections.TagsFilterForms"
+msgid "Is all of"
+msgstr ""
+
+#: Orchard.Tags.Controllers.AdminController
+#| msgid "Can't manage tags"
+msgctxt "Orchard.Tags.Controllers.AdminController"
+msgid "Can't manage tags"
+msgstr ""
+
+#: Orchard.Tags.Controllers.AdminController
+#| msgid "Couldn't create tag"
+msgctxt "Orchard.Tags.Controllers.AdminController"
+msgid "Couldn't create tag"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/EditorTemplates/Parts/Tags.cshtml
+#| msgid "Separate multiple tags with commas"
+msgctxt "~/Modules/Orchard.Tags/Views/EditorTemplates/Parts/Tags.cshtml"
+msgid "Separate multiple tags with commas"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Tags/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard 團隊"
+
+#: ~/Modules/Orchard.Tags/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Tags/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.Tags/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Tags/Module.txt"
+msgid "The tags module is providing basic tagging for arbitrary content types."
+msgstr "標籤模組提供基礎的標籤功能給任何的內容類型。"
+
+#: ~/Modules/Orchard.Tags/Module.txt
+#| msgid "Orchard.Tags.Name"
+msgctxt "~/Modules/Orchard.Tags/Module.txt"
+msgid "Tags"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Module.txt
+#| msgid "Orchard.Tags.Description"
+msgctxt "~/Modules/Orchard.Tags/Module.txt"
+msgid "Tag a content item."
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Module.txt
+#| msgid "Orchard.Tags.Category"
+msgctxt "~/Modules/Orchard.Tags/Module.txt"
+msgid "Navigation"
+msgstr ""
+
+#: Orchard.Tags.AdminMenu
+#| msgid "Tags"
+msgctxt "Orchard.Tags.AdminMenu"
+msgid "Tags"
+msgstr "標籤"
+
+#: Orchard.Tags.AdminMenu
+#| msgid "List"
+msgctxt "Orchard.Tags.AdminMenu"
+msgid "List"
+msgstr "列表"
+
+#: Orchard.Tags.Controllers.AdminController
+#| msgid "Couldn't delete tag"
+msgctxt "Orchard.Tags.Controllers.AdminController"
+msgid "Couldn't delete tag"
+msgstr "無法刪除標籤"
+
+#: Orchard.Tags.Controllers.AdminController
+#| msgid "Couldn't edit tag"
+msgctxt "Orchard.Tags.Controllers.AdminController"
+msgid "Couldn't edit tag"
+msgstr "無法編輯標籤"
+
+#: Orchard.Tags.Controllers.AdminController
+#| msgid "Couldn't remove tag"
+msgctxt "Orchard.Tags.Controllers.AdminController"
+msgid "Couldn't remove tag"
+msgstr "無法移除標籤"
+
+#: Orchard.Tags.Services.TagService
+#| msgid "Couldn't rename tag: name was empty"
+msgctxt "Orchard.Tags.Services.TagService"
+msgid "Couldn't rename tag: name was empty"
+msgstr "無法重新命名標籤: 名稱為空"
+
+#: Orchard.Tags.Services.TagService
+#| msgid "Error removing tag to content item: the content item has not been created yet."
+msgctxt "Orchard.Tags.Services.TagService"
+msgid "Error removing tag to content item: the content item has not been created yet."
+msgstr "從內容項目移除標籤時發生錯誤: 內容項目尚未建立。"
+
+#: Orchard.Tags.Services.TagService
+#| msgid "Error adding tag to content item: the content item has not been created yet."
+msgctxt "Orchard.Tags.Services.TagService"
+msgid "Error adding tag to content item: the content item has not been created yet."
+msgstr "新增標籤到內容項目時發生錯誤: 內容項目尚未建立。"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Manage tag: {0}"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml"
+msgid "Manage tag: {0}"
+msgstr "管理標籤: {0}"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Tag Name"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml"
+msgid "Tag Name"
+msgstr "標籤名稱"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml"
+msgid "Save"
+msgstr "儲存"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Content items tagged with {0}"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml"
+msgid "Content items tagged with {0}"
+msgstr "將內容項目標為 {0}"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "There is nothing tagged with {0}"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml"
+msgid "There is nothing tagged with {0}"
+msgstr "沒有東西會標上 {0}"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Content Type"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml"
+msgid "Content Type"
+msgstr "內容類型"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml"
+msgid "Name"
+msgstr "名稱"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Manage Tags"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Index.cshtml"
+msgid "Manage Tags"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr "動作:"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Choose action..."
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Index.cshtml"
+msgid "Choose action..."
+msgstr "選擇動作..."
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Index.cshtml"
+msgid "Remove"
+msgstr ""
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr "套用"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "This is a table of the tags in your application"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Index.cshtml"
+msgid "This is a table of the tags in your application"
+msgstr "在您的應用中這是標籤的表格"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Index.cshtml"
+msgid "Name"
+msgstr "名稱"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr "編輯"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid " | "
+msgctxt "~/Modules/Orchard.Tags/Views/Admin/Index.cshtml"
+msgid " | "
+msgstr " | "
+
+#: ~/Modules/Orchard.Tags/Views/EditorTemplates/Parts/CreateTag.cshtml
+#| msgid "New Tag Name"
+msgctxt "~/Modules/Orchard.Tags/Views/EditorTemplates/Parts/CreateTag.cshtml"
+msgid "New Tag Name"
+msgstr "新標籤名稱"
+
+#: ~/Modules/Orchard.Tags/Views/EditorTemplates/Parts/CreateTag.cshtml
+#| msgid "Add Tag"
+msgctxt "~/Modules/Orchard.Tags/Views/EditorTemplates/Parts/CreateTag.cshtml"
+msgid "Add Tag"
+msgstr "新增標籤"
+
+#: ~/Modules/Orchard.Tags/Views/EditorTemplates/Parts/Tags.cshtml
+#| msgid "Tags"
+msgctxt "~/Modules/Orchard.Tags/Views/EditorTemplates/Parts/Tags.cshtml"
+msgid "Tags"
+msgstr "標籤"
+
+#: ~/Modules/Orchard.Tags/Views/Home/Index.cshtml
+#| msgid "Tags"
+msgctxt "~/Modules/Orchard.Tags/Views/Home/Index.cshtml"
+msgid "Tags"
+msgstr "標籤"
+
+#: ~/Modules/Orchard.Tags/Views/Home/Search.cshtml
+#| msgid "Tags"
+msgctxt "~/Modules/Orchard.Tags/Views/Home/Search.cshtml"
+msgid "Tags"
+msgstr "標籤"
+
+#: ~/Modules/Orchard.Tags/Views/Home/Search.cshtml
+#| msgid "Contents tagged with {0}"
+msgctxt "~/Modules/Orchard.Tags/Views/Home/Search.cshtml"
+msgid "Contents tagged with {0}"
+msgstr "將內容標為 {0}"
+
+#: ~/Modules/Orchard.Tags/Views/Home/Search.cshtml
+#| msgid "Contents tagged with <span>{0}</span>"
+msgctxt "~/Modules/Orchard.Tags/Views/Home/Search.cshtml"
+msgid "Contents tagged with <span>{0}</span>"
+msgstr "將內容標為 <span>{0}</span>"
+
+#: ~/Modules/Orchard.Tags/Views/Parts/Tags.ShowTags.cshtml
+#| msgid "Tags:"
+msgctxt "~/Modules/Orchard.Tags/Views/Parts/Tags.ShowTags.cshtml"
+msgid "Tags:"
+msgstr "標籤"
+
+#: Orchard.Tags.Controllers.AdminController
+#| msgid "Not authorized to fetch tags"
+msgctxt "Orchard.Tags.Controllers.AdminController"
+msgid "Not authorized to fetch tags"
+msgstr ""
+
+#: Orchard.Tags.Drivers.TagsPartDriver
+#| msgid "The tags \"{0}\" could not be added because they contain forbidden chars: {1}"
+msgctxt "Orchard.Tags.Drivers.TagsPartDriver"
+msgid "The tags \"{0}\" could not be added because they contain forbidden chars: {1}"
+msgstr ""
+
+#: Orchard.Tags.Projections.TagsFilter
+#| msgid "Tags"
+msgctxt "Orchard.Tags.Projections.TagsFilter"
+msgid "Tags"
+msgstr ""
+
+#: Orchard.Tags.Projections.TagsFilter
+#| msgid "Has Tags"
+msgctxt "Orchard.Tags.Projections.TagsFilter"
+msgid "Has Tags"
+msgstr ""
+
+#: Orchard.Tags.Projections.TagsFilter
+#| msgid "Tagged content items"
+msgctxt "Orchard.Tags.Projections.TagsFilter"
+msgid "Tagged content items"
+msgstr ""
+
+#: Orchard.Tags.Projections.TagsFilter
+#| msgid "Any tag"
+msgctxt "Orchard.Tags.Projections.TagsFilter"
+msgid "Any tag"
+msgstr ""
+
+#: Orchard.Tags.Projections.TagsFilter
+#| msgid "Tagged with {0}"
+msgctxt "Orchard.Tags.Projections.TagsFilter"
+msgid "Tagged with {0}"
+msgstr ""
+
+#: Orchard.Tags.Projections.TagsFilterForms
+#| msgid "Tags"
+msgctxt "Orchard.Tags.Projections.TagsFilterForms"
+msgid "Tags"
+msgstr ""
+
+#: Orchard.Tags.Projections.TagsFilterForms
+#| msgid "Select some tags."
+msgctxt "Orchard.Tags.Projections.TagsFilterForms"
+msgid "Select some tags."
+msgstr ""
+

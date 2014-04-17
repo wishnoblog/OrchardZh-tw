@@ -1,0 +1,461 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.MultiTenancy/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.MultiTenancy/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard 團隊"
+
+#: ~/Modules/Orchard.MultiTenancy/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.MultiTenancy/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.MultiTenancy/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.MultiTenancy/Module.txt"
+msgid "The multi-tenancy module enables multiple Orchard sites to run in isolation inside of a single web application, improving site density on a single server or hosted account."
+msgstr "多租戶模組可以每個 Orchard 網站運作在獨立的網頁應用程序中，改善伺服器的負擔。"
+
+#: ~/Modules/Orchard.MultiTenancy/Module.txt
+#| msgid "Orchard.MultiTenancy.Name"
+msgctxt "~/Modules/Orchard.MultiTenancy/Module.txt"
+msgid "Multi Tenancy"
+msgstr ""
+
+#: ~/Modules/Orchard.MultiTenancy/Module.txt
+#| msgid "Orchard.MultiTenancy.Description"
+msgctxt "~/Modules/Orchard.MultiTenancy/Module.txt"
+msgid "Configure multiple site tenants."
+msgstr ""
+
+#: ~/Modules/Orchard.MultiTenancy/Module.txt
+#| msgid "Orchard.MultiTenancy.Category"
+msgctxt "~/Modules/Orchard.MultiTenancy/Module.txt"
+msgid "Hosting"
+msgstr ""
+
+#: Orchard.MultiTenancy.AdminMenu
+#| msgid "Tenants"
+msgctxt "Orchard.MultiTenancy.AdminMenu"
+msgid "Tenants"
+msgstr "租戶"
+
+#: Orchard.MultiTenancy.AdminMenu
+#| msgid "List"
+msgctxt "Orchard.MultiTenancy.AdminMenu"
+msgid "List"
+msgstr "列表"
+
+#: Orchard.MultiTenancy.Commands.TenantCommand
+#| msgid "List of tenants"
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "List of tenants"
+msgstr "租戶列表"
+
+#: Orchard.MultiTenancy.Commands.TenantCommand
+#| msgid "---------------------------"
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "---------------------------"
+msgstr "---------------------------"
+
+#: Orchard.MultiTenancy.Commands.TenantCommand
+#| msgid "Name: "
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Name: "
+msgstr "名稱:"
+
+#: Orchard.MultiTenancy.Commands.TenantCommand
+#| msgid "Provider: "
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Provider: "
+msgstr "提供者:"
+
+#: Orchard.MultiTenancy.Commands.TenantCommand
+#| msgid "ConnectionString: "
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "ConnectionString: "
+msgstr "連線設定:"
+
+#: Orchard.MultiTenancy.Commands.TenantCommand
+#| msgid "Data Table Prefix: "
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Data Table Prefix: "
+msgstr "資料表前綴"
+
+#: Orchard.MultiTenancy.Commands.TenantCommand
+#| msgid "Request Url Host: "
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Request Url Host: "
+msgstr "要求 Url 的主機:"
+
+#: Orchard.MultiTenancy.Commands.TenantCommand
+#| msgid "Request Url Prefix: "
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Request Url Prefix: "
+msgstr "要求 Url 前綴:"
+
+#: Orchard.MultiTenancy.Commands.TenantCommand
+#| msgid "State: "
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "State: "
+msgstr "狀態:"
+
+#: Orchard.MultiTenancy.Commands.TenantCommand
+#| msgid "Creating tenant"
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Creating tenant"
+msgstr "建立租戶"
+
+#: Orchard.MultiTenancy.Commands.TenantCommand
+#| msgid "Tenant: "
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Tenant: "
+msgstr "租戶"
+
+#: Orchard.MultiTenancy.Commands.TenantCommand
+#| msgid " was not found"
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid " was not found"
+msgstr "找不到"
+
+#: Orchard.MultiTenancy.Commands.TenantCommand
+#| msgid "Tenant Settings:"
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Tenant Settings:"
+msgstr "租戶設定:"
+
+#: Orchard.MultiTenancy.Controllers.AdminController
+#| msgid "Cannot create tenant"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Cannot create tenant"
+msgstr "無法建立租戶"
+
+#: Orchard.MultiTenancy.Controllers.AdminController
+#| msgid "Couldn't create tenant"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Couldn't create tenant"
+msgstr "無法建立租戶"
+
+#: Orchard.MultiTenancy.Controllers.AdminController
+#| msgid "Creating Tenant failed: {0}"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Creating Tenant failed: {0}"
+msgstr "建立租戶失敗: {0}"
+
+#: Orchard.MultiTenancy.Controllers.AdminController
+#| msgid "Cannot edit tenant"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Cannot edit tenant"
+msgstr "無法編輯租戶"
+
+#: Orchard.MultiTenancy.Controllers.AdminController
+#| msgid "Couldn't edit tenant"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Couldn't edit tenant"
+msgstr "無法編輯租戶"
+
+#: Orchard.MultiTenancy.Controllers.AdminController
+#| msgid "Failed to edit tenant: {0} "
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Failed to edit tenant: {0} "
+msgstr "編輯租戶失敗: {0}"
+
+#: Orchard.MultiTenancy.Controllers.AdminController
+#| msgid "Couldn't disable tenant"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Couldn't disable tenant"
+msgstr "無法禁用租戶"
+
+#: Orchard.MultiTenancy.Controllers.AdminController
+#| msgid "Couldn't enable tenant"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Couldn't enable tenant"
+msgstr "無法啟用租戶"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Add New Tenant"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Add New Tenant"
+msgstr "新增租戶"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Name"
+msgstr "名稱"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Host"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Host"
+msgstr "主機"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Example: If host is 'orchardproject.net', the tenant site URL is 'http://orchardproject.net/'"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Example: If host is 'orchardproject.net', the tenant site URL is 'http://orchardproject.net/'"
+msgstr ""
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Database Setup"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Database Setup"
+msgstr "安裝資料庫"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Allow the tenant to set up the database"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Allow the tenant to set up the database"
+msgstr "允許租戶建立資料庫"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Use built-in data storage (SQL Server Compact)"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Use built-in data storage (SQL Server Compact)"
+msgstr "使用嵌入式的資料儲存區 (SQL Server Compact)"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Use an existing SQL Server (or SQL Express) database"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Use an existing SQL Server (or SQL Express) database"
+msgstr "使用已存在的 SQL Server (or SQL Express) 資料庫"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Connection string"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Connection string"
+msgstr "連線設定"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Example:"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Example:"
+msgstr "範例:"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Data Source=sqlServerName;Initial Catalog=dbName;Persist Security Info=True;User ID=userName;Password=password"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Data Source=sqlServerName;Initial Catalog=dbName;Persist Security Info=True;User ID=userName;Password=password"
+msgstr "Data Source=sqlServerName;Initial Catalog=dbName;Persist Security Info=True;User ID=userName;Password=password"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Database Table Prefix"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Database Table Prefix"
+msgstr "資料庫表格前綴"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Save"
+msgstr "儲存"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "Edit Tenant"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Edit Tenant"
+msgstr "編輯租戶"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "Host"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Host"
+msgstr "主機"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "Example: If host is \"orchardproject.net\", the tenant site URL is \"http://orchardproject.net/\""
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Example: If host is \"orchardproject.net\", the tenant site URL is \"http://orchardproject.net/\""
+msgstr "範例: 假如主機是 \"orchardproject.net\"，租戶的網站 URL 就是 \"http://orchardproject.net/\""
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "Database Setup"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Database Setup"
+msgstr "安裝資料庫"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "Warning: If you don't know what you're doing you *will* (likely) send this tenant into a downward spiral of irrecoverable disrepair. Have a nice day."
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Warning: If you don't know what you're doing you *will* (likely) send this tenant into a downward spiral of irrecoverable disrepair. Have a nice day."
+msgstr "警告: 如果您不知道您在做什麼，您可能造成無法挽回的錯誤。祝有愉快的一天。"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "Allow the tenant to set up the database"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Allow the tenant to set up the database"
+msgstr "允許租戶建立資料庫"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "Use built-in data storage (SQL Server Compact)"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Use built-in data storage (SQL Server Compact)"
+msgstr "使用嵌入式的資料儲存區 (SQL Server Compact)"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "Use an existing SQL Server (or SQL Express) database"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Use an existing SQL Server (or SQL Express) database"
+msgstr "使用已存在的 SQL Server (or SQL Express) 資料庫"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "Connection string"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Connection string"
+msgstr "連線設定"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "Example:"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Example:"
+msgstr "範例:"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "Data Source=sqlServerName;Initial Catalog=dbName;Persist Security Info=True;User ID=userName;Password=password"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Data Source=sqlServerName;Initial Catalog=dbName;Persist Security Info=True;User ID=userName;Password=password"
+msgstr "Data Source=sqlServerName;Initial Catalog=dbName;Persist Security Info=True;User ID=userName;Password=password"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "Database Table Prefix"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Database Table Prefix"
+msgstr "資料庫表格前綴"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Save"
+msgstr "儲存"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml
+#| msgid "List of Site's Tenants"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml"
+msgid "List of Site's Tenants"
+msgstr "租戶網站列表"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml
+#| msgid "Add a Tenant"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml"
+msgid "Add a Tenant"
+msgstr "新增租戶"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml
+#| msgid " | "
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml"
+msgid " | "
+msgstr " | "
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr "編輯"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForDisabled.cshtml
+#| msgid "Resume"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForDisabled.cshtml"
+msgid "Resume"
+msgstr "繼續"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForInvalid.cshtml
+#| msgid "Make Valid*"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForInvalid.cshtml"
+msgid "Make Valid*"
+msgstr "使有效*"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForRunning.cshtml
+#| msgid "Suspend"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForRunning.cshtml"
+msgid "Suspend"
+msgstr "暫停"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForUninitialized.cshtml
+#| msgid "Set Up"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForUninitialized.cshtml"
+msgid "Set Up"
+msgstr "建立"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "The name of the tenant as it will be displayed in the admin."
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "The name of the tenant as it will be displayed in the admin."
+msgstr ""
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Available Themes"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Available Themes"
+msgstr ""
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Select the Themes which should be available for this tenant. If none is selected, they will all be available."
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Select the Themes which should be available for this tenant. If none is selected, they will all be available."
+msgstr ""
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "Available Themes"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Available Themes"
+msgstr ""
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "Select the Themes which should be available for this tenant. If none is selected, they will all be available."
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Select the Themes which should be available for this tenant. If none is selected, they will all be available."
+msgstr ""
+
+#: Orchard.MultiTenancy.Controllers.AdminController
+#| msgid "Invalid tenant name. Must contain characters only and no spaces."
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Invalid tenant name. Must contain characters only and no spaces."
+msgstr "無效的租戶名稱。請勿使用空格。"
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "Example: If host is \"orchardproject.net\", the tenant site URL is \"http://orchardproject.net/\""
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Example: If host is \"orchardproject.net\", the tenant site URL is \"http://orchardproject.net/\""
+msgstr "範例: 假如主機是 \"orchardproject.net\"，租戶的網站 URL 就是 \"http://orchardproject.net/\""
+
+#: ~/Modules/Orchard.MultiTenancy/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.MultiTenancy/Module.txt"
+msgid "MultiTenancy"
+msgstr "多租戶"
+
+#: ~/Modules/Orchard.MultiTenancy/Module.txt
+#| msgid "Orchard.MultiTenancy Description"
+msgctxt "~/Modules/Orchard.MultiTenancy/Module.txt"
+msgid "Configure multiple site tenants."
+msgstr ""
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "URL prefix"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "URL prefix"
+msgstr ""
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml
+#| msgid "(Optional) Example: If prefix is \"site1\", the tenant URL prefix is \"http://orchardproject.net/site1\""
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "(Optional) Example: If prefix is \"site1\", the tenant URL prefix is \"http://orchardproject.net/site1\""
+msgstr ""
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "URL prefix"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "URL prefix"
+msgstr ""
+
+#: ~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml
+#| msgid "(Optional) Example: If prefix is \"site1\", the tenant URL prefix is \"http://orchardproject.net/site1\""
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "(Optional) Example: If prefix is \"site1\", the tenant URL prefix is \"http://orchardproject.net/site1\""
+msgstr ""
+

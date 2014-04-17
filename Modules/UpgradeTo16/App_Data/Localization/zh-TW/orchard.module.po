@@ -1,0 +1,209 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/UpgradeTo16/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/UpgradeTo16/Module.txt"
+msgid "UpgradeTo16"
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/UpgradeTo16/Module.txt"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/UpgradeTo16/Module.txt"
+msgid "http://orchardproject.net"
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/UpgradeTo16/Module.txt"
+msgid "Description for the module"
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Module.txt
+#| msgid "UpgradeTo16.Description"
+msgctxt "~/Modules/UpgradeTo16/Module.txt"
+msgid "Description for feature UpgradeTo16."
+msgstr ""
+
+#: UpgradeTo16.AdminMenu
+#| msgid "Upgrade to 1.6"
+msgctxt "UpgradeTo16.AdminMenu"
+msgid "Upgrade to 1.6"
+msgstr ""
+
+#: UpgradeTo16.AdminMenu
+#| msgid "Migrate Routes"
+msgctxt "UpgradeTo16.AdminMenu"
+msgid "Migrate Routes"
+msgstr ""
+
+#: UpgradeTo16.AdminMenu
+#| msgid "Migrate Fields"
+msgctxt "UpgradeTo16.AdminMenu"
+msgid "Migrate Fields"
+msgstr ""
+
+#: UpgradeTo16.AdminMenu
+#| msgid "Migrate Menu"
+msgctxt "UpgradeTo16.AdminMenu"
+msgid "Migrate Menu"
+msgstr ""
+
+#: UpgradeTo16.Controllers.FieldController
+#| msgid "There are no content types with custom fields"
+msgctxt "UpgradeTo16.Controllers.FieldController"
+msgid "There are no content types with custom fields"
+msgstr ""
+
+#: UpgradeTo16.Controllers.FieldController
+#| msgid "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
+msgctxt "UpgradeTo16.Controllers.FieldController"
+msgid "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
+msgstr ""
+
+#: UpgradeTo16.Controllers.FieldController
+#| msgid "Not allowed to migrate fields."
+msgctxt "UpgradeTo16.Controllers.FieldController"
+msgid "Not allowed to migrate fields."
+msgstr ""
+
+#: UpgradeTo16.Controllers.FieldController
+#| msgid "{0} fields were migrated successfully"
+msgctxt "UpgradeTo16.Controllers.FieldController"
+msgid "{0} fields were migrated successfully"
+msgstr ""
+
+#: UpgradeTo16.Controllers.MenuController
+#| msgid "This step is unnecessary as some menus already exist."
+msgctxt "UpgradeTo16.Controllers.MenuController"
+msgid "This step is unnecessary as some menus already exist."
+msgstr ""
+
+#: UpgradeTo16.Controllers.MenuController
+#| msgid "Not allowed to migrate the navigation."
+msgctxt "UpgradeTo16.Controllers.MenuController"
+msgid "Not allowed to migrate the navigation."
+msgstr ""
+
+#: UpgradeTo16.Controllers.MenuController
+#| msgid "Main menu created"
+msgctxt "UpgradeTo16.Controllers.MenuController"
+msgid "Main menu created"
+msgstr ""
+
+#: UpgradeTo16.Controllers.MenuController
+#| msgid "Menu items moved to Main menu"
+msgctxt "UpgradeTo16.Controllers.MenuController"
+msgid "Menu items moved to Main menu"
+msgstr ""
+
+#: UpgradeTo16.Controllers.MenuController
+#| msgid "Widget could not be created. Please create it manually."
+msgctxt "UpgradeTo16.Controllers.MenuController"
+msgid "Widget could not be created. Please create it manually."
+msgstr ""
+
+#: UpgradeTo16.Controllers.RouteController
+#| msgid "There are no content types with RoutePart"
+msgctxt "UpgradeTo16.Controllers.RouteController"
+msgid "There are no content types with RoutePart"
+msgstr ""
+
+#: UpgradeTo16.Controllers.RouteController
+#| msgid "Not allowed to migrate routes."
+msgctxt "UpgradeTo16.Controllers.RouteController"
+msgid "Not allowed to migrate routes."
+msgstr ""
+
+#: UpgradeTo16.Controllers.RouteController
+#| msgid "Some content items could not be imported. Please refer to the corresponding Report."
+msgctxt "UpgradeTo16.Controllers.RouteController"
+msgid "Some content items could not be imported. Please refer to the corresponding Report."
+msgstr ""
+
+#: UpgradeTo16.Controllers.RouteController
+#| msgid "{0} was migrated successfully"
+msgctxt "UpgradeTo16.Controllers.RouteController"
+msgid "{0} was migrated successfully"
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Views/Field/Index.cshtml
+#| msgid "Migrate Fields"
+msgctxt "~/Modules/UpgradeTo16/Views/Field/Index.cshtml"
+msgid "Migrate Fields"
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Views/Field/Index.cshtml
+#| msgid "Choose the types to migrate:"
+msgctxt "~/Modules/UpgradeTo16/Views/Field/Index.cshtml"
+msgid "Choose the types to migrate:"
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Views/Field/Index.cshtml
+#| msgid "The migration process fields data. You will still need to enable Orchard.Fields, and remove Contrib.DateTime and Contrib.MediaPicker if you have installed them."
+msgctxt "~/Modules/UpgradeTo16/Views/Field/Index.cshtml"
+msgid "The migration process fields data. You will still need to enable Orchard.Fields, and remove Contrib.DateTime and Contrib.MediaPicker if you have installed them."
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Views/Field/Index.cshtml
+#| msgid "Migrate"
+msgctxt "~/Modules/UpgradeTo16/Views/Field/Index.cshtml"
+msgid "Migrate"
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Views/Menu/Index.cshtml
+#| msgid "Migrate Menu"
+msgctxt "~/Modules/UpgradeTo16/Views/Menu/Index.cshtml"
+msgid "Migrate Menu"
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Views/Menu/Index.cshtml
+#| msgid "Migrating Menu:"
+msgctxt "~/Modules/UpgradeTo16/Views/Menu/Index.cshtml"
+msgid "Migrating Menu:"
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Views/Menu/Index.cshtml
+#| msgid "This migration step will create a new Menu named \"Main Menu\" and add all your previous menu items to it. Finally it will create a new \"Menu Widget\" instance to render this menu on the website."
+msgctxt "~/Modules/UpgradeTo16/Views/Menu/Index.cshtml"
+msgid "This migration step will create a new Menu named \"Main Menu\" and add all your previous menu items to it. Finally it will create a new \"Menu Widget\" instance to render this menu on the website."
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Views/Menu/Index.cshtml
+#| msgid "Migrate"
+msgctxt "~/Modules/UpgradeTo16/Views/Menu/Index.cshtml"
+msgid "Migrate"
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Views/Route/Index.cshtml
+#| msgid "Migrate Routes"
+msgctxt "~/Modules/UpgradeTo16/Views/Route/Index.cshtml"
+msgid "Migrate Routes"
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Views/Route/Index.cshtml
+#| msgid "Choose the types to migrate:"
+msgctxt "~/Modules/UpgradeTo16/Views/Route/Index.cshtml"
+msgid "Choose the types to migrate:"
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Views/Route/Index.cshtml
+#| msgid "The migration process will move the Route and Title properties by adding an Autoroute and a Title part to all the content items for the selected content types."
+msgctxt "~/Modules/UpgradeTo16/Views/Route/Index.cshtml"
+msgid "The migration process will move the Route and Title properties by adding an Autoroute and a Title part to all the content items for the selected content types."
+msgstr ""
+
+#: ~/Modules/UpgradeTo16/Views/Route/Index.cshtml
+#| msgid "Migrate"
+msgctxt "~/Modules/UpgradeTo16/Views/Route/Index.cshtml"
+msgid "Migrate"
+msgstr ""
+

@@ -1,0 +1,437 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Lists/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Lists/Module.txt"
+msgid "Lists"
+msgstr "Lists"
+
+#: Orchard.Lists.Controllers.AdminController
+#| msgid "Please select the list to move the items to."
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Please select the list to move the items to."
+msgstr ""
+
+#: Orchard.Lists.Controllers.AdminController
+#| msgid "Couldn't move selected content."
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Couldn't move selected content."
+msgstr ""
+
+#: Orchard.Lists.Controllers.AdminController
+#| msgid "One or more items could not be moved to '{0}' because it is restricted to containing items of type '{1}'."
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "One or more items could not be moved to '{0}' because it is restricted to containing items of type '{1}'."
+msgstr ""
+
+#: Orchard.Lists.Controllers.AdminController
+#| msgid "Content successfully moved to <a href=\"{0}\">{1}</a>."
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Content successfully moved to <a href=\"{0}\">{1}</a>."
+msgstr ""
+
+#: Orchard.Lists.Controllers.AdminController
+#| msgid "Couldn't remove selected content from the list."
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Couldn't remove selected content from the list."
+msgstr ""
+
+#: Orchard.Lists.Controllers.AdminController
+#| msgid "Content successfully removed from the list."
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Content successfully removed from the list."
+msgstr ""
+
+#: Orchard.Lists.Controllers.AdminController
+#| msgid "Couldn't remove selected content."
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Couldn't remove selected content."
+msgstr ""
+
+#: Orchard.Lists.Controllers.AdminController
+#| msgid "Content successfully removed."
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Content successfully removed."
+msgstr ""
+
+#: Orchard.Lists.Controllers.AdminController
+#| msgid "Couldn't unpublish selected content."
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Couldn't unpublish selected content."
+msgstr ""
+
+#: Orchard.Lists.Controllers.AdminController
+#| msgid "Content successfully unpublished."
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Content successfully unpublished."
+msgstr ""
+
+#: Orchard.Lists.Controllers.AdminController
+#| msgid "Couldn't publish selected content."
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Couldn't publish selected content."
+msgstr ""
+
+#: Orchard.Lists.Controllers.AdminController
+#| msgid "Content successfully published."
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Content successfully published."
+msgstr ""
+
+#: Lists.Controllers.AdminController
+#| msgid "Please select the list to move the items to."
+msgctxt "Lists.Controllers.AdminController"
+msgid "Please select the list to move the items to."
+msgstr "請選擇項目要移動至的列表。"
+
+#: Lists.Controllers.AdminController
+#| msgid "Couldn't move selected content."
+msgctxt "Lists.Controllers.AdminController"
+msgid "Couldn't move selected content."
+msgstr "無法移動選取的主題。"
+
+#: Lists.Controllers.AdminController
+#| msgid "One or more items could not be moved to '{0}' because it is restricted to containing items of type '{1}'."
+msgctxt "Lists.Controllers.AdminController"
+msgid "One or more items could not be moved to '{0}' because it is restricted to containing items of type '{1}'."
+msgstr "一個或多個項目無法移動到 '{0}'，因為它被限制為包含主題項目分類 '{1}'。"
+
+#: Lists.Controllers.AdminController
+#| msgid "Couldn't remove selected content from the list."
+msgctxt "Lists.Controllers.AdminController"
+msgid "Couldn't remove selected content from the list."
+msgstr "無法從列表中移動選取的主題。"
+
+#: Lists.Controllers.AdminController
+#| msgid "Content successfully removed from the list."
+msgctxt "Lists.Controllers.AdminController"
+msgid "Content successfully removed from the list."
+msgstr "主題從列表移除成功。"
+
+#: Lists.Controllers.AdminController
+#| msgid "Couldn't remove selected content."
+msgctxt "Lists.Controllers.AdminController"
+msgid "Couldn't remove selected content."
+msgstr "無法移除選取的主題。"
+
+#: Lists.Controllers.AdminController
+#| msgid "Content successfully removed."
+msgctxt "Lists.Controllers.AdminController"
+msgid "Content successfully removed."
+msgstr "主題移除成功。"
+
+#: Lists.Controllers.AdminController
+#| msgid "Couldn't unpublish selected content."
+msgctxt "Lists.Controllers.AdminController"
+msgid "Couldn't unpublish selected content."
+msgstr "無法取消發佈選取的主題。"
+
+#: Lists.Controllers.AdminController
+#| msgid "Content successfully unpublished."
+msgctxt "Lists.Controllers.AdminController"
+msgid "Content successfully unpublished."
+msgstr "主題取消發佈成功。"
+
+#: Lists.Controllers.AdminController
+#| msgid "Couldn't publish selected content."
+msgctxt "Lists.Controllers.AdminController"
+msgid "Couldn't publish selected content."
+msgstr "無法發佈選取的主題。"
+
+#: Lists.Controllers.AdminController
+#| msgid "Content successfully published."
+msgctxt "Lists.Controllers.AdminController"
+msgid "Content successfully published."
+msgstr "主題發佈成功"
+
+#: ~/Modules/Orchard.Lists/Views/Parts.Container.Contained.SummaryAdmin.cshtml
+#| msgid "Contained Items"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.Contained.SummaryAdmin.cshtml"
+msgid "Contained Items"
+msgstr "主題項目"
+
+#: ~/Modules/Orchard.Lists/Views/Parts.Container.Contained.SummaryAdmin.cshtml
+#| msgid " | "
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.Contained.SummaryAdmin.cshtml"
+msgid " | "
+msgstr " | "
+
+#: ~/Modules/Orchard.Lists/Views/Parts.Container.Manage.cshtml
+#| msgid "{0} Properties"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.Manage.cshtml"
+msgid "{0} Properties"
+msgstr "{0} 屬性"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
+#| msgid "Choose Items"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml"
+msgid "Choose Items"
+msgstr "選擇項目"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
+#| msgid "Move to {0}"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml"
+msgid "Move to {0}"
+msgstr "移動至 {0}"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
+#| msgid "No list"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml"
+msgid "No list"
+msgstr "無資料"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
+#| msgid "Show"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml"
+msgid "Show"
+msgstr "顯示"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
+#| msgid "any (show all)"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml"
+msgid "any (show all)"
+msgstr "顯示全部"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
+#| msgid "from"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml"
+msgid "from"
+msgstr "從"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
+#| msgid "Ordered by"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml"
+msgid "Ordered by"
+msgstr "排序使用"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
+#| msgid "recently created"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml"
+msgid "recently created"
+msgstr "最近建立"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
+#| msgid "recently modified"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml"
+msgid "recently modified"
+msgstr "最近更新"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
+#| msgid "recently published"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml"
+msgid "recently published"
+msgstr "最近發佈"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
+#| msgid "Apply"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml"
+msgid "Apply"
+msgstr "套用"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml
+#| msgid "There are no content items."
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Choose.cshtml"
+msgid "There are no content items."
+msgstr "沒有主題項目。"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "Create New Content"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Create New Content"
+msgstr "建立新主題"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "Create New {0}"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Create New {0}"
+msgstr "新增 {0}"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "Manage {0}"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Manage {0}"
+msgstr "管理 {0}"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "Move to..."
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Move to..."
+msgstr "移動至..."
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "Choose Items"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Choose Items"
+msgstr "選擇項目"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "Actions:"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Actions:"
+msgstr "動作:"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "Choose action..."
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Choose action..."
+msgstr "選擇動作..."
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "Publish Now"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Publish Now"
+msgstr "立刻發佈"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "Unpublish"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Unpublish"
+msgstr "取消發佈"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Delete"
+msgstr "刪除"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "Remove from List"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Remove from List"
+msgstr "從列表移除"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "Move to List..."
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Move to List..."
+msgstr "移動至列表..."
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "Apply"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Apply"
+msgstr "套用"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "Show"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Show"
+msgstr "顯示"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "any (show all)"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "any (show all)"
+msgstr "顯示全部"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "Ordered by"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Ordered by"
+msgstr "排序使用"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "recently created"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "recently created"
+msgstr "最近建立"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "recently modified"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "recently modified"
+msgstr "最近更新"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "recently published"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "recently published"
+msgstr "最近發佈"
+
+#: ~/Modules/Orchard.Lists/Views/Admin/List.cshtml
+#| msgid "The '{0}' {1} has no content items."
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "The '{0}' {1} has no content items."
+msgstr "'{0}' {1} 無主題項目。"
+
+#: ~/Modules/Orchard.Lists/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Lists/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard 團隊"
+
+#: ~/Modules/Orchard.Lists/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Lists/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.Lists/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Lists/Module.txt"
+msgid "Introduces a preconfigured container-enabled content type."
+msgstr "預先配置主題分類功能的容器。"
+
+#: ~/Modules/Orchard.Lists/Module.txt
+#| msgid "Orchard.Lists.Name"
+msgctxt "~/Modules/Orchard.Lists/Module.txt"
+msgid "Lists"
+msgstr ""
+
+#: ~/Modules/Orchard.Lists/Module.txt
+#| msgid "Orchard.Lists.Description"
+msgctxt "~/Modules/Orchard.Lists/Module.txt"
+msgid "A basic container-enabled content type."
+msgstr ""
+
+#: ~/Modules/Orchard.Lists/Module.txt
+#| msgid "Orchard.Lists.Category"
+msgctxt "~/Modules/Orchard.Lists/Module.txt"
+msgid "Content"
+msgstr ""
+
+#: Orchard.Lists.AdminMenu
+#| msgid "Lists"
+msgctxt "Orchard.Lists.AdminMenu"
+msgid "Lists"
+msgstr ""
+
+#: Orchard.Lists.AdminMenu
+#| msgid "Manage Lists"
+msgctxt "Orchard.Lists.AdminMenu"
+msgid "Manage Lists"
+msgstr ""
+
+#: Orchard.Lists.AdminMenu
+#| msgid "Create New List"
+msgctxt "Orchard.Lists.AdminMenu"
+msgid "Create New List"
+msgstr ""
+
+#: ~/Modules/Orchard.Lists/Views/Items/Content-List.SummaryAdmin.cshtml
+#| msgid "List Items"
+msgctxt "~/Modules/Orchard.Lists/Views/Items/Content-List.SummaryAdmin.cshtml"
+msgid "List Items"
+msgstr ""
+
+#: ~/Modules/Orchard.Lists/Views/Items/Content-List.SummaryAdmin.cshtml
+#| msgid " | "
+msgctxt "~/Modules/Orchard.Lists/Views/Items/Content-List.SummaryAdmin.cshtml"
+msgid " | "
+msgstr ""
+
+#: ~/Modules/Orchard.Lists/Views/Items/Content-List.SummaryAdmin.cshtml
+#| msgid "Edit"
+msgctxt "~/Modules/Orchard.Lists/Views/Items/Content-List.SummaryAdmin.cshtml"
+msgid "Edit"
+msgstr ""
+
+#: ~/Modules/Orchard.Lists/Views/Items/Content-List.SummaryAdmin.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Orchard.Lists/Views/Items/Content-List.SummaryAdmin.cshtml"
+msgid "Remove"
+msgstr ""
+

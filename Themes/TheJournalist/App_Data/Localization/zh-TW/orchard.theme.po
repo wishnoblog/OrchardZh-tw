@@ -1,0 +1,221 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Themes/TheJournalist/Theme.txt
+#| msgid "Name"
+msgctxt "~/Themes/TheJournalist/Theme.txt"
+msgid "The Journalist"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Theme.txt
+#| msgid "Author"
+msgctxt "~/Themes/TheJournalist/Theme.txt"
+msgid "Lucian E. Martin, Sébastien Ros"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Theme.txt
+#| msgid "Description"
+msgctxt "~/Themes/TheJournalist/Theme.txt"
+msgid "Journalist is a smart, minimal theme designed for professional journalists."
+msgstr ""
+
+#: ~/Themes/TheJournalist/Theme.txt
+#| msgid "Tags"
+msgctxt "~/Themes/TheJournalist/Theme.txt"
+msgid "clean, conservative, light, minimal"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Theme.txt
+#| msgid "Website"
+msgctxt "~/Themes/TheJournalist/Theme.txt"
+msgid "http://thejournalisttheme.codeplex.com"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid "Please enter your username and password."
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid "Please enter your username and password."
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid "Register"
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid "Register"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid " if you don't have an account."
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid " if you don't have an account."
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid "Lost your Password?"
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid "Lost your Password?"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid "Login was unsuccessful. Please correct the errors and try again."
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid "Login was unsuccessful. Please correct the errors and try again."
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid "Username"
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid "Username"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid "Password"
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid "Password"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid "Sign In"
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid "Sign In"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Pager.cshtml
+#| msgid "Older"
+msgctxt "~/Themes/TheJournalist/Views/Pager.cshtml"
+msgid "Older"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Pager.cshtml
+#| msgid "Newer"
+msgctxt "~/Themes/TheJournalist/Views/Pager.cshtml"
+msgid "Newer"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Blogs.BlogPost.List.cshtml
+#| msgid "There are no posts for this blog."
+msgctxt "~/Themes/TheJournalist/Views/Parts.Blogs.BlogPost.List.cshtml"
+msgid "There are no posts for this blog."
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.Count.cshtml
+#| msgid "leave a comment"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.Count.cshtml"
+msgid "leave a comment"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.Count.cshtml
+#| msgid "one comment"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.Count.cshtml"
+msgid "one comment"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.Count.cshtml
+#| msgid "{0} comments"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.Count.cshtml"
+msgid "{0} comments"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "Comments are closed."
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "Comments are closed."
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "You must {0} to comment."
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "You must {0} to comment."
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "log on"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "log on"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "Name"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "Name"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "(required)"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "(required)"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "Mail (will not be published)"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "Logged in as {0}."
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "Logged in as {0}."
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "Please review your comment before submitting"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "Please review your comment before submitting"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "1 Comment"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "1 Comment"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "{0} Comments"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "{0} Comments"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Common.Metadata.cshtml
+#| msgid "at"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Common.Metadata.cshtml"
+msgid "at"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts.Tags.ShowTags.cshtml
+#| msgid "Tagged with"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Tags.ShowTags.cshtml"
+msgid "Tagged with"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml
+#| msgid "Search"
+msgctxt "~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml"
+msgid "Search"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml
+#| msgid "There is <em>one</em> result"
+msgctxt "~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml"
+msgid "There is <em>one</em> result"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml
+#| msgid "<em>zero</em> results"
+msgctxt "~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml"
+msgid "<em>zero</em> results"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml
+#| msgid "<em>{1} - {2}</em> of <em>{0}</em> results"
+msgctxt "~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml"
+msgid "<em>{1} - {2}</em> of <em>{0}</em> results"
+msgstr ""
+
+#: ~/Themes/TheJournalist/Views/Parts/Search.SearchForm.cshtml
+#| msgid "Search"
+msgctxt "~/Themes/TheJournalist/Views/Parts/Search.SearchForm.cshtml"
+msgid "Search"
+msgstr ""
+

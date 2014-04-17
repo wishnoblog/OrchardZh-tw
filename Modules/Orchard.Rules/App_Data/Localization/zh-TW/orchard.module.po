@@ -1,0 +1,593 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Triggers \"{1}\" in {0} {2}"
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Triggers \"{1}\" in {0} {2}"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Triggers \"{1}\" in {0} {2}s"
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Triggers \"{1}\" in {0} {2}s"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Rules/Module.txt"
+msgid "Rules"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Rules/Module.txt"
+msgid "The Orchard Team"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Rules/Module.txt"
+msgid "http://orchardrules.codeplex.com"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Rules/Module.txt"
+msgid "Provides a system de trigger actions based on events."
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Orchard.Rules.Name"
+msgctxt "~/Modules/Orchard.Rules/Module.txt"
+msgid "Rules"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Orchard.Rules.Description"
+msgctxt "~/Modules/Orchard.Rules/Module.txt"
+msgid "Provides a system de trigger actions based on events."
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Orchard.Rules.Category"
+msgctxt "~/Modules/Orchard.Rules/Module.txt"
+msgid "Rules"
+msgstr ""
+
+#: Orchard.Rules.AdminMenu
+#| msgid "Rules"
+msgctxt "Orchard.Rules.AdminMenu"
+msgid "Rules"
+msgstr ""
+
+#: Orchard.Rules.AdminMenu
+#| msgid "Manage Rules"
+msgctxt "Orchard.Rules.AdminMenu"
+msgid "Manage Rules"
+msgstr ""
+
+#: Orchard.Rules.Controllers.ActionController
+#| msgid "Not authorized to manage rules"
+msgctxt "Orchard.Rules.Controllers.ActionController"
+msgid "Not authorized to manage rules"
+msgstr ""
+
+#: Orchard.Rules.Controllers.ActionController
+#| msgid "Action Deleted"
+msgctxt "Orchard.Rules.Controllers.ActionController"
+msgid "Action Deleted"
+msgstr ""
+
+#: Orchard.Rules.Controllers.ActionController
+#| msgid "Save"
+msgctxt "Orchard.Rules.Controllers.ActionController"
+msgid "Save"
+msgstr ""
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to list rules"
+msgctxt "Orchard.Rules.Controllers.AdminController"
+msgid "Not authorized to list rules"
+msgstr ""
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to manage rules"
+msgctxt "Orchard.Rules.Controllers.AdminController"
+msgid "Not authorized to manage rules"
+msgstr ""
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to edit rules"
+msgctxt "Orchard.Rules.Controllers.AdminController"
+msgid "Not authorized to edit rules"
+msgstr ""
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Rule Saved"
+msgctxt "Orchard.Rules.Controllers.AdminController"
+msgid "Rule Saved"
+msgstr ""
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Rule {0} deleted"
+msgctxt "Orchard.Rules.Controllers.AdminController"
+msgid "Rule {0} deleted"
+msgstr ""
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Rule enabled"
+msgctxt "Orchard.Rules.Controllers.AdminController"
+msgid "Rule enabled"
+msgstr ""
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Rule disabled"
+msgctxt "Orchard.Rules.Controllers.AdminController"
+msgid "Rule disabled"
+msgstr ""
+
+#: Orchard.Rules.Controllers.EventController
+#| msgid "Not authorized to manage rules"
+msgctxt "Orchard.Rules.Controllers.EventController"
+msgid "Not authorized to manage rules"
+msgstr ""
+
+#: Orchard.Rules.Controllers.EventController
+#| msgid "Event Deleted"
+msgctxt "Orchard.Rules.Controllers.EventController"
+msgid "Event Deleted"
+msgstr ""
+
+#: Orchard.Rules.Controllers.EventController
+#| msgid "Save"
+msgctxt "Orchard.Rules.Controllers.EventController"
+msgid "Save"
+msgstr ""
+
+#: Orchard.Rules.Providers.NotificationActions
+#| msgid "Notification"
+msgctxt "Orchard.Rules.Providers.NotificationActions"
+msgid "Notification"
+msgstr ""
+
+#: Orchard.Rules.Providers.NotificationActions
+#| msgid "Notifications"
+msgctxt "Orchard.Rules.Providers.NotificationActions"
+msgid "Notifications"
+msgstr ""
+
+#: Orchard.Rules.Providers.NotificationActions
+#| msgid "Notify"
+msgctxt "Orchard.Rules.Providers.NotificationActions"
+msgid "Notify"
+msgstr ""
+
+#: Orchard.Rules.Providers.NotificationActions
+#| msgid "Display a message."
+msgctxt "Orchard.Rules.Providers.NotificationActions"
+msgid "Display a message."
+msgstr ""
+
+#: Orchard.Rules.Providers.NotificationActions
+#| msgid "Displays \"{1}\" as {0}"
+msgctxt "Orchard.Rules.Providers.NotificationActions"
+msgid "Displays \"{1}\" as {0}"
+msgstr ""
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Notification type"
+msgctxt "Orchard.Rules.Providers.NotificationForms"
+msgid "Notification type"
+msgstr ""
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Select what type of notification should be displayed."
+msgctxt "Orchard.Rules.Providers.NotificationForms"
+msgid "Select what type of notification should be displayed."
+msgstr ""
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Information"
+msgctxt "Orchard.Rules.Providers.NotificationForms"
+msgid "Information"
+msgstr ""
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Warning"
+msgctxt "Orchard.Rules.Providers.NotificationForms"
+msgid "Warning"
+msgstr ""
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Error"
+msgctxt "Orchard.Rules.Providers.NotificationForms"
+msgid "Error"
+msgstr ""
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Message"
+msgctxt "Orchard.Rules.Providers.NotificationForms"
+msgid "Message"
+msgstr ""
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "The notification message to display."
+msgctxt "Orchard.Rules.Providers.NotificationForms"
+msgid "The notification message to display."
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "System"
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "System"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Delayed Action"
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Delayed Action"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Triggers some actions after a specific amount of time."
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Triggers some actions after a specific amount of time."
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Triggers \"{0}\" in {1}"
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Triggers \"{0}\" in {1}"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Scheduled Action"
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Scheduled Action"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Triggers some actions at a specific date and time."
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Triggers some actions at a specific date and time."
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Triggers \"{0}\" on {1}"
+msgctxt "Orchard.Rules.Providers.ScheduleActions"
+msgid "Triggers \"{0}\" on {1}"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Amount"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Amount"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Amount type"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Amount type"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Minutes"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Minutes"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Hours"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Hours"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Days"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Days"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Weeks"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Weeks"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Months"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Months"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Rule to trigger"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Rule to trigger"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Date"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Date"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Time"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "Time"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "You must provide an Amount"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "You must provide an Amount"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "You must provide a Type"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "You must provide a Type"
+msgstr ""
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "You must select at least one Rule"
+msgctxt "Orchard.Rules.Providers.ScheduleForms"
+msgid "You must select at least one Rule"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Action/Add.cshtml
+#| msgid "Add an Action"
+msgctxt "~/Modules/Orchard.Rules/Views/Action/Add.cshtml"
+msgid "Add an Action"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Action/Add.cshtml
+#| msgid "There are no currently available actions"
+msgctxt "~/Modules/Orchard.Rules/Views/Action/Add.cshtml"
+msgid "There are no currently available actions"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Action/Add.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Rules/Views/Action/Add.cshtml"
+msgid "Name"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Action/Add.cshtml
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Rules/Views/Action/Add.cshtml"
+msgid "Description"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Action/Edit.cshtml
+#| msgid "Edit Action - {0}"
+msgctxt "~/Modules/Orchard.Rules/Views/Action/Edit.cshtml"
+msgid "Edit Action - {0}"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Create.cshtml
+#| msgid "Create New Rule"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Create.cshtml"
+msgid "Create New Rule"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Create.cshtml
+#| msgid "The name of the Rule"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Create.cshtml"
+msgid "The name of the Rule"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Create.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Create.cshtml"
+msgid "Save"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Edit Rule"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Edit Rule"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "The name of the Rule"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "The name of the Rule"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Events"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Events"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Add a new Event"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Add a new Event"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Description"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Edit"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Edit"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Delete"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Actions"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Actions"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Add a new Action"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Add a new Action"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Up"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Up"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Down"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Down"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Save"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Save and Enable"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml"
+msgid "Save and Enable"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Manage Rules"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Manage Rules"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Add a new Rule"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Add a new Rule"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Choose action..."
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Choose action..."
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Enable"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Enable"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Disable"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Disable"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Sort by:"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Sort by:"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Name"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Email"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Email"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Show:"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Show:"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "All"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "All"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Filter"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Filter"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Creation"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Creation"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgctxt "~/Modules/Orchard.Rules/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Event/Add.cshtml
+#| msgid "Add an Event"
+msgctxt "~/Modules/Orchard.Rules/Views/Event/Add.cshtml"
+msgid "Add an Event"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Event/Add.cshtml
+#| msgid "There are no currently available events"
+msgctxt "~/Modules/Orchard.Rules/Views/Event/Add.cshtml"
+msgid "There are no currently available events"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Event/Add.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Rules/Views/Event/Add.cshtml"
+msgid "Name"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Event/Add.cshtml
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Rules/Views/Event/Add.cshtml"
+msgid "Description"
+msgstr ""
+
+#: ~/Modules/Orchard.Rules/Views/Event/Edit.cshtml
+#| msgid "Edit Event - {0}"
+msgctxt "~/Modules/Orchard.Rules/Views/Event/Edit.cshtml"
+msgid "Edit Event - {0}"
+msgstr ""
+

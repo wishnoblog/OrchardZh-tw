@@ -1,0 +1,149 @@
+# Orchard resource strings - zh-TW
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "WidgetAlternates.Name"
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "Widget Alternates"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "WidgetAlternates.Category"
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "Designer"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "WidgetAlternates.Description"
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "Adds shape alternates for content types stereotyped as widgets, allowing to customize shapes by widget and zone"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Alternate ({0})"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Alternate ({0})"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Wrappers ({0})"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Wrappers ({0})"
+msgstr ""
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "Designer Tools"
+msgstr "設計工具"
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard 團隊"
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "Contains designer tools to ease the Themes development process"
+msgstr "設計工具可以所短主題發展時間"
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "UrlAlternates.Name"
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "Url Alternates"
+msgstr "備用 Url"
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "UrlAlternates.Category"
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "Designer"
+msgstr "設計者"
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "UrlAlternates.Description"
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "Adds shape alternates for specific urls"
+msgstr "添加特定的網址形態候補"
+
+#: Orchard.DesignerTools.Controllers.AlternateController
+#| msgid "Not authorized to create templates"
+msgctxt "Orchard.DesignerTools.Controllers.AlternateController"
+msgid "Not authorized to create templates"
+msgstr "未授權建立佈景主題"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingMeta.cshtml
+#| msgid "n/a"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingMeta.cshtml"
+msgid "n/a"
+msgstr "n/a"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingMeta.cshtml
+#| msgid "Content not available as coming from source code."
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingMeta.cshtml"
+msgid "Content not available as coming from source code."
+msgstr "主題不能當做來源代碼。"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Shape"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Shape"
+msgstr "型態"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Model"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Model"
+msgstr "模組"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Placement"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Placement"
+msgstr "放置"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Template"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Template"
+msgstr "佈景主題"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "HTML"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "HTML"
+msgstr "HTML"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Active Template"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Active Template"
+msgstr "動態主題"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Original Template"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Original Template"
+msgstr "原始主題"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Display Type"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Display Type"
+msgstr "顯示分類"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Create"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Create"
+msgstr "建立"
+
