@@ -13,13 +13,13 @@ msgstr ""
 #| msgid "Spam detected."
 msgctxt "Orchard.AntiSpam.Drivers.SpamFilterPartDriver"
 msgid "Spam detected."
-msgstr ""
+msgstr "垃色留言已刪除"
 
 #: Orchard.AntiSpam.Handlers.ReCaptchaSettingsPartHandler
 #| msgid "Spam"
 msgctxt "Orchard.AntiSpam.Handlers.ReCaptchaSettingsPartHandler"
 msgid "Spam"
-msgstr ""
+msgstr "垃色留言"
 
 #: Orchard.AntiSpam.Services.MissingFilterBanner
 #| msgid "Anti-spam protection requires at least one anti-spam filter to be enabled and configured."
@@ -31,7 +31,7 @@ msgstr ""
 #| msgid "Delete spam when found"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
 msgid "Delete spam when found"
-msgstr ""
+msgstr "當發現垃色留言時刪除"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml
 #| msgid "Enable to have spam automatically deleted when found. You won't be able to find false positive."
@@ -43,7 +43,7 @@ msgstr ""
 #| msgid "Url"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
 msgid "Url"
-msgstr ""
+msgstr "Url"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml
 #| msgid "The front page or home URL of the instance making the request. For a blog or wiki this would be the front page. Note: Must be a full URI, including http://."
@@ -55,7 +55,7 @@ msgstr ""
 #| msgid "Permalink"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
 msgid "Permalink"
-msgstr ""
+msgstr "靜態連結"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml
 #| msgid "The permanent location of the entry the content item was submitted to."
@@ -67,7 +67,7 @@ msgstr ""
 #| msgid "Author"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
 msgid "Author"
-msgstr ""
+msgstr "作者"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml
 #| msgid "Name submitted with the content item."
@@ -79,7 +79,7 @@ msgstr ""
 #| msgid "Author's email"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
 msgid "Author's email"
-msgstr ""
+msgstr "作者的EMAIL"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml
 #| msgid "Email address submitted with the content item."
@@ -91,7 +91,7 @@ msgstr ""
 #| msgid "Author's url"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
 msgid "Author's url"
-msgstr ""
+msgstr "作者的網址"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml
 #| msgid "URL submitted with the content item."
@@ -103,7 +103,7 @@ msgstr ""
 #| msgid "Comment content"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
 msgid "Comment content"
-msgstr ""
+msgstr "回應內容"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml
 #| msgid "The content that was submitted."
@@ -121,19 +121,19 @@ msgstr ""
 #| msgid "Your public key."
 msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
 msgid "Your public key."
-msgstr ""
+msgstr "你的公開金鑰"
 
 #: ~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml
 #| msgid "Your private key."
 msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
 msgid "Your private key."
-msgstr ""
+msgstr "您的私鑰"
 
 #: ~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml
 #| msgid "Get custom keys:"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
 msgid "Get custom keys:"
-msgstr ""
+msgstr "取得自訂的Key:"
 
 #: ~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml
 #| msgid "Hide for authenticated users"
@@ -151,37 +151,37 @@ msgstr ""
 #| msgid "Not Spam"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.Actions.cshtml"
 msgid "Not Spam"
-msgstr ""
+msgstr "沒有垃色留言"
 
 #: ~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.Actions.cshtml
 #| msgid "Spam"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.Actions.cshtml"
 msgid "Spam"
-msgstr ""
+msgstr "垃色留言"
 
 #: ~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.Actions.cshtml
 #| msgid " | "
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.Actions.cshtml"
 msgid " | "
-msgstr ""
+msgstr " | "
 
 #: ~/Modules/Orchard.AntiSpam/Module.txt
 #| msgid "Name"
 msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
 msgid "AntiSpam"
-msgstr ""
+msgstr "反垃色留言"
 
 #: ~/Modules/Orchard.AntiSpam/Module.txt
 #| msgid "Author"
 msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
 msgid "The Orchard Team"
-msgstr ""
+msgstr "The Orchard Team"
 
 #: ~/Modules/Orchard.AntiSpam/Module.txt
 #| msgid "Website"
 msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
 msgid "http://orchardproject.net"
-msgstr ""
+msgstr "http://orchardproject.net"
 
 #: ~/Modules/Orchard.AntiSpam/Module.txt
 #| msgid "Description"
@@ -193,7 +193,7 @@ msgstr ""
 #| msgid "Orchard.AntiSpam.Name"
 msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
 msgid "Anti-Spam"
-msgstr ""
+msgstr "防止垃圾留言"
 
 #: ~/Modules/Orchard.AntiSpam/Module.txt
 #| msgid "Orchard.AntiSpam.Description"
@@ -295,7 +295,7 @@ msgstr ""
 #| msgid "Spam Reported"
 msgctxt "Orchard.AntiSpam.Rules.AntiSpamEvents"
 msgid "Spam Reported"
-msgstr ""
+msgstr "垃圾留言報告"
 
 #: Orchard.AntiSpam.Rules.AntiSpamEvents
 #| msgid "Content is categorized as spam."
@@ -349,7 +349,7 @@ msgstr ""
 #| msgid "Mark as Spam"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
 msgid "Mark as Spam"
-msgstr ""
+msgstr "標記為垃圾留言"
 
 #: ~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml
 #| msgid "Mark as Ham"
@@ -361,13 +361,13 @@ msgstr ""
 #| msgid "Delete"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 #: ~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml
 #| msgid "Apply"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
 msgid "Apply"
-msgstr ""
+msgstr "套用"
 
 #: ~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml
 #| msgid "Filter:"
@@ -379,13 +379,13 @@ msgstr ""
 #| msgid "any (show all)"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
 msgid "any (show all)"
-msgstr ""
+msgstr "任何（顯示全部）"
 
 #: ~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml
 #| msgid "Spam"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
 msgid "Spam"
-msgstr ""
+msgstr "垃圾留言"
 
 #: ~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml
 #| msgid "Ham"
@@ -403,43 +403,43 @@ msgstr ""
 #| msgid "Creation date"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
 msgid "Creation date"
-msgstr ""
+msgstr "建立日期"
 
 #: ~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml
 #| msgid "Show:"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
 msgid "Show:"
-msgstr ""
+msgstr "顯示："
 
 #: ~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml
 #| msgid "All"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
 msgid "All"
-msgstr ""
+msgstr "所有"
 
 #: ~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml
 #| msgid "Filter"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
 msgid "Filter"
-msgstr ""
+msgstr "過濾器"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/ReCaptchaPartSettings.cshtml
 #| msgid "Your public key."
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/ReCaptchaPartSettings.cshtml"
 msgid "Your public key."
-msgstr ""
+msgstr "您的公開金鑰"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/ReCaptchaPartSettings.cshtml
 #| msgid "Your private key."
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/ReCaptchaPartSettings.cshtml"
 msgid "Your private key."
-msgstr ""
+msgstr "您的私鑰"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/ReCaptchaPartSettings.cshtml
 #| msgid "Get custom keys:"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/ReCaptchaPartSettings.cshtml"
 msgid "Get custom keys:"
-msgstr ""
+msgstr "取得自訂的Key"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml
 #| msgid "When should items for this content type be categorized as Spam ?"
@@ -457,13 +457,13 @@ msgstr ""
 #| msgid "All filters report spam"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
 msgid "All filters report spam"
-msgstr ""
+msgstr "所有的過濾器回報垃圾留言"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml
 #| msgid "Analyzed text"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
 msgid "Analyzed text"
-msgstr ""
+msgstr "分析文字"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml
 #| msgid "The tokenized pattern generating the text to submit to spam filters."
@@ -481,25 +481,25 @@ msgstr ""
 #| msgid "Day"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
 msgid "Day"
-msgstr ""
+msgstr "日"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml
 #| msgid "Hour"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
 msgid "Hour"
-msgstr ""
+msgstr "小時"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml
 #| msgid "Month"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
 msgid "Month"
-msgstr ""
+msgstr "月"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml
 #| msgid "Year"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
 msgid "Year"
-msgstr ""
+msgstr "年"
 
 #: ~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml
 #| msgid "Overall"

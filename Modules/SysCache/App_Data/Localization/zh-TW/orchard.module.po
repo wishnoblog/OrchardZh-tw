@@ -7,35 +7,35 @@
 #| msgid "Name"
 msgctxt "~/Modules/SysCache/Module.txt"
 msgid "SysCache"
-msgstr ""
+msgstr "SysCache"
 
 #: ~/Modules/SysCache/Module.txt
 #| msgid "Author"
 msgctxt "~/Modules/SysCache/Module.txt"
 msgid "The Orchard Team"
-msgstr ""
+msgstr "The Orchard Team"
 
 #: ~/Modules/SysCache/Module.txt
 #| msgid "Website"
 msgctxt "~/Modules/SysCache/Module.txt"
 msgid "http://orchardproject.net"
-msgstr ""
+msgstr "http://orchardproject.net"
 
 #: ~/Modules/SysCache/Module.txt
 #| msgid "Description"
 msgctxt "~/Modules/SysCache/Module.txt"
 msgid "Enables database caching using the SysCache provider."
-msgstr ""
+msgstr "使用SysCache剖析器啟用資料庫快取"
 
 #: ~/Modules/SysCache/Module.txt
 #| msgid "SysCache.Description"
 msgctxt "~/Modules/SysCache/Module.txt"
 msgid "Enables database caching using the SysCache provider."
-msgstr ""
+msgstr "使用SysCache剖析器啟用資料庫快取"
 
 #: ~/Modules/SysCache/Module.txt
 #| msgid "SysCache.Category"
 msgctxt "~/Modules/SysCache/Module.txt"
 msgid "Performance"
-msgstr ""
+msgstr "效能"
 
