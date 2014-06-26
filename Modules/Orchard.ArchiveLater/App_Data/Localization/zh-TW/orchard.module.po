@@ -7,7 +7,7 @@
 #| msgid "Scheduled"
 msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtm"
 msgid "Scheduled"
-msgstr ""
+msgstr "排程"
 
 #: ~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtm
 #| msgid "The page is scheduled for archiving"
@@ -19,7 +19,7 @@ msgstr ""
 #| msgid "Unpublish on"
 msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtm"
 msgid "Unpublish on"
-msgstr ""
+msgstr "啟用未發佈"
 
 #: ~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtm
 #| msgid "M/d/yyyy h:mm tt"

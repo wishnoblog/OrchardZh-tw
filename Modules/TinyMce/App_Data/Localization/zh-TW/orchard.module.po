@@ -25,7 +25,7 @@ msgstr "TinyMCE 模組使用 "What You See Is What You Get" (WYSIWYG) 的使用�
 #| msgid "TinyMce.Name"
 msgctxt "~/Modules/TinyMce/Module.txt"
 msgid "TinyMce"
-msgstr ""
+msgstr "TinyMce"
 
 #: ~/Modules/TinyMce/Module.txt
 #| msgid "TinyMce.Description"

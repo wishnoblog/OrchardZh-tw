@@ -115,7 +115,7 @@ msgstr ""
 #| msgid "ReCaptcha"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
 msgid "ReCaptcha"
-msgstr ""
+msgstr "重新產生驗證碼"
 
 #: ~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml
 #| msgid "Your public key."
@@ -205,7 +205,7 @@ msgstr ""
 #| msgid "Orchard.AntiSpam.Category"
 msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
 msgid "Security"
-msgstr ""
+msgstr "安全性"
 
 #: ~/Modules/Orchard.AntiSpam/Module.txt
 #| msgid "Akismet.Filter.Name"
@@ -223,7 +223,7 @@ msgstr ""
 #| msgid "Akismet.Filter.Category"
 msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
 msgid "Security"
-msgstr ""
+msgstr "安全性"
 
 #: ~/Modules/Orchard.AntiSpam/Module.txt
 #| msgid "TypePad.Filter.Name"
@@ -241,19 +241,19 @@ msgstr ""
 #| msgid "TypePad.Filter.Category"
 msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
 msgid "Security"
-msgstr ""
+msgstr "安全性"
 
 #: Orchard.AntiSpam.AdminMenu
 #| msgid "Spam"
 msgctxt "Orchard.AntiSpam.AdminMenu"
 msgid "Spam"
-msgstr ""
+msgstr "垃圾留言"
 
 #: Orchard.AntiSpam.AdminMenu
 #| msgid "Manage Spam"
 msgctxt "Orchard.AntiSpam.AdminMenu"
 msgid "Manage Spam"
-msgstr ""
+msgstr "管理垃圾留言"
 
 #: Orchard.AntiSpam.Controllers.AdminController
 #| msgid "Not authorized to manage spam"
@@ -265,7 +265,7 @@ msgstr ""
 #| msgid "Incorrect word"
 msgctxt "Orchard.AntiSpam.Drivers.ReCaptchaPartDriver"
 msgid "Incorrect word"
-msgstr ""
+msgstr "錯誤的詞"
 
 #: Orchard.AntiSpam.Drivers.SubmissionLimitPartDriver
 #| msgid "The limit of submissions has been reached."
@@ -277,19 +277,19 @@ msgstr ""
 #| msgid "Spam"
 msgctxt "Orchard.AntiSpam.Handlers.AkismetSettingsPartHandler"
 msgid "Spam"
-msgstr ""
+msgstr "垃圾留言"
 
 #: Orchard.AntiSpam.Handlers.TypePadSettingsPartHandler
 #| msgid "Spam"
 msgctxt "Orchard.AntiSpam.Handlers.TypePadSettingsPartHandler"
 msgid "Spam"
-msgstr ""
+msgstr "垃圾留言"
 
 #: Orchard.AntiSpam.Rules.AntiSpamEvents
 #| msgid "Anti-Spam"
 msgctxt "Orchard.AntiSpam.Rules.AntiSpamEvents"
 msgid "Anti-Spam"
-msgstr ""
+msgstr "防止垃圾留言"
 
 #: Orchard.AntiSpam.Rules.AntiSpamEvents
 #| msgid "Spam Reported"
@@ -331,19 +331,19 @@ msgstr ""
 #| msgid "Manage Spam"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
 msgid "Manage Spam"
-msgstr ""
+msgstr "管理垃圾留言"
 
 #: ~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml
 #| msgid "Actions:"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
 msgid "Actions:"
-msgstr ""
+msgstr "動作:"
 
 #: ~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml
 #| msgid "Choose action..."
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
 msgid "Choose action..."
-msgstr ""
+msgstr "選則動作..."
 
 #: ~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml
 #| msgid "Mark as Spam"
@@ -397,7 +397,7 @@ msgstr ""
 #| msgid "Sort by:"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
 msgid "Sort by:"
-msgstr ""
+msgstr "排序:"
 
 #: ~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml
 #| msgid "Creation date"
@@ -565,7 +565,7 @@ msgstr ""
 #| msgid "Api key"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.TypePadSettings.cshtml"
 msgid "Api key"
-msgstr ""
+msgstr "Api 金鑰"
 
 #: ~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.TypePadSettings.cshtml
 #| msgid "API key for <a href=\"http://antispam.typepad.com/info/get-api-key.html\">TypePad AntiSpam</a> service."
@@ -577,7 +577,7 @@ msgstr ""
 #| msgid "Spam"
 msgctxt "~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.SummaryAdmin.cshtml"
 msgid "Spam"
-msgstr ""
+msgstr "垃圾留言"
 
 #: ~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.SummaryAdmin.cshtml
 #| msgid "The content has been categorized as spam"

@@ -409,13 +409,13 @@ msgstr ""
 #| msgid "Adding post: {0}..."
 msgctxt "Orchard.Blogs.Commands.BlogCommands"
 msgid "Adding post: {0}..."
-msgstr ""
+msgstr "新增貼文:{0}..."
 
 #: Orchard.Blogs.Commands.BlogCommands
 #| msgid "Import feed completed."
 msgctxt "Orchard.Blogs.Commands.BlogCommands"
 msgid "Import feed completed."
-msgstr ""
+msgstr "匯入feed完成"
 
 #: Orchard.Blogs.Services.XmlRpcHandler
 #| msgid "The specified Blog Post doesn't exist anymore. Please create a new Blog Post."
@@ -445,7 +445,7 @@ msgstr "Orchard Blogs 模組提供基本的部落格功能。"
 #| msgid "Orchard.Blogs.Name"
 msgctxt "~/Modules/Orchard.Blogs/Module.txt"
 msgid "Blogs"
-msgstr ""
+msgstr "部落格"
 
 #: ~/Modules/Orchard.Blogs/Module.txt
 #| msgid "Orchard.Blogs.Description"
@@ -457,7 +457,7 @@ msgstr ""
 #| msgid "Orchard.Blogs.Category"
 msgctxt "~/Modules/Orchard.Blogs/Module.txt"
 msgid "Content"
-msgstr ""
+msgstr "內容"
 
 #: ~/Modules/Orchard.Blogs/Module.txt
 #| msgid "Orchard.Blogs.RemotePublishing.Name"
@@ -481,7 +481,7 @@ msgstr "主題發佈"
 #| msgid "Blogs"
 msgctxt "Orchard.Blogs.AdminMenu"
 msgid "Blogs"
-msgstr ""
+msgstr "部落格"
 
 #: Orchard.Blogs.AdminMenu
 #| msgid "Manage Blogs"
@@ -499,13 +499,13 @@ msgstr "管理部落格"
 #| msgid "Create New Post"
 msgctxt "Orchard.Blogs.AdminMenu"
 msgid "Create New Post"
-msgstr ""
+msgstr "建立新文章"
 
 #: Orchard.Blogs.AdminMenu
 #| msgid "Create New Blog"
 msgctxt "Orchard.Blogs.AdminMenu"
 msgid "Create New Blog"
-msgstr ""
+msgstr "建立新部落格"
 
 #: Orchard.Blogs.Commands.BlogCommands
 #| msgid "Invalid username: {0}"
